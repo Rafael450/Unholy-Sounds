@@ -2,17 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Lantern : MonoBehaviour
+public class LanternMechanic : MonoBehaviour
 {
     void Start()
     {
         // Hide the mouse pointer when the game starts
         
+        Cursor.visible = false;
     }
     
     void Update()
     {
-        Cursor.visible = false;
+        if (PauseMenu.paused) return;
         // Get the position of the mouse pointer in screen coordinates
         Vector3 mousePos = Input.mousePosition;
 
