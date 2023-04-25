@@ -3,13 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Lantern : MonoBehaviour
-{
-    void Start()
-    {
-        // Hide the mouse pointer when the game starts
-        
-    }
-    
+{    
     void Update()
     {
         Cursor.visible = false;
