@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.SceneManagement;
+
 
 public class MainAIController : MonoBehaviour
 {
@@ -20,5 +22,10 @@ public class MainAIController : MonoBehaviour
     void Update()
     {
         rb.velocity = nm.velocity;
+    }
+    
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.tag == "Player") SceneManager.LoadScene("Derrota");
     }
 }
