@@ -5,10 +5,10 @@ using UnityEngine;
 public class Movimento : MonoBehaviour
 {
     public float speed;
-    public Vector3 change;
-    public Vector3 last;
+    private Vector3 change;
+    private Vector3 last;
     Rigidbody2D rb;
-    public Animator animator;
+    private Animator animator;
 
     void Start()
     {
