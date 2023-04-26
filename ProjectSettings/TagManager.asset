@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - PlayerLight
+  - LetterE
   layers:
   - Default
   - TransparentFX
