@@ -22,7 +22,7 @@ public class EnemyBehavior : MonoBehaviour
         nm = GetComponent<NavMeshAgent>();
         nm.updateRotation = false;
         nm.updateUpAxis = false;
-        target = GameObject.Find("Player").transform;
+        target = GameObject.FindGameObjectWithTag("Player").transform;
 
         Debug.Log(sound);
 

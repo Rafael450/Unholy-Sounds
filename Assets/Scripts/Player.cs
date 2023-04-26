@@ -48,6 +48,7 @@ public class Player : MonoBehaviour
         light2d.pointLightOuterRadius = Flashlight.getOuterRadius(flashlightType);
     
         letterE = GameObject.FindGameObjectWithTag("LetterE");
+        letterE.SetActive(false);
     }
 
     void Update() {
