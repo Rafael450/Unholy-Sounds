@@ -418,6 +418,7 @@ MonoBehaviour:
   characterName: Ketchup
   moveSpeed: 7
   flashlightType: 1
+  active: 1
 --- !u!1 &7413137370871950365
 GameObject:
   m_ObjectHideFlags: 0

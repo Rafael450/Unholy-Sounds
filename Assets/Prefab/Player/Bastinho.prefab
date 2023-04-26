@@ -418,6 +418,7 @@ MonoBehaviour:
   characterName: Bastinho
   moveSpeed: 7
   flashlightType: 0
+  active: 1
 --- !u!1 &7689438842667936202
 GameObject:
   m_ObjectHideFlags: 0

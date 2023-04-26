@@ -176,7 +176,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6209853785769225918
 Transform:
   m_ObjectHideFlags: 0
@@ -345,6 +345,7 @@ MonoBehaviour:
   characterName: Linguini
   moveSpeed: 8
   flashlightType: 0
+  active: 1
 --- !u!1 &8773134694041269336
 GameObject:
   m_ObjectHideFlags: 0

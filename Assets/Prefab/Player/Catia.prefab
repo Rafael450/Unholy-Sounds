@@ -190,6 +190,7 @@ MonoBehaviour:
   characterName: Catia
   moveSpeed: 5
   flashlightType: 3
+  active: 1
 --- !u!1 &3048091248144371762
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,6 +12,7 @@ public class Player : MonoBehaviour
     public string characterName;
     public float moveSpeed;
     public FlashlightType flashlightType;
+    public bool active = true;
     private Flashlight flashlight;
     private UnityEngine.Rendering.Universal.Light2D light2d;
     private Movimento movement;
@@ -22,6 +23,10 @@ public class Player : MonoBehaviour
     void Start()
     {
         movement = gameObject.AddComponent<Movimento>();
+        if (active == false) {
+            movement.speed = 0;
+            return;
+        }
         movement.speed = moveSpeed;
 
         flashlight = gameObject.AddComponent<Flashlight>();
