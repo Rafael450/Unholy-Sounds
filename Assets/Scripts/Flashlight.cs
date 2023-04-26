@@ -17,7 +17,7 @@ public class Flashlight : Item
 
     public FlashlightType flashlightType;
 
-    public float getOuterAngle() {
+    public static float getOuterAngle(FlashlightType flashlightType) {
         switch (flashlightType) {
         default:
         case FlashlightType.Type1: return 90;
@@ -28,7 +28,7 @@ public class Flashlight : Item
         }
     }
 
-    public float getOuterRadius() {
+    public static float getOuterRadius(FlashlightType flashlightType) {
         switch (flashlightType) {
         default:
         case FlashlightType.Type1: return 20;

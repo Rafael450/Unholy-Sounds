@@ -12,8 +12,9 @@ public class Player : MonoBehaviour
     public string characterName;
     public float moveSpeed;
     public FlashlightType flashlightType;
+    public int luck = 5;
     public bool active = true;
-    private Flashlight flashlight;
+    public Flashlight flashlight;
     private UnityEngine.Rendering.Universal.Light2D light2d;
     private Movimento movement;
 
@@ -33,9 +34,8 @@ public class Player : MonoBehaviour
         flashlight.flashlightType = flashlightType;
 
         light2d = GameObject.FindGameObjectWithTag("PlayerLight").GetComponent<Light2D>();;
-        light2d.pointLightInnerAngle = 37;
-        light2d.pointLightOuterAngle = flashlight.getOuterAngle();
-        light2d.pointLightOuterRadius = flashlight.getOuterRadius();
+        light2d.pointLightOuterAngle = Flashlight.getOuterAngle(flashlightType);
+        light2d.pointLightOuterRadius = Flashlight.getOuterRadius(flashlightType);
     }
 
 }
