@@ -48,13 +48,14 @@ public class EnemyBehavior : MonoBehaviour
 
             }
         }
-
-        if((target.position - Enemy.GetComponent<Transform>().position).magnitude >= 60) // distance
+        if((target.position - Enemy.GetComponent<Transform>().position).magnitude >= 65) // distance
         {
             float angle = Random.Range(0f, Mathf.PI * 2);
             Vector3 randomVector = (new Vector3(Mathf.Cos(angle), Mathf.Sin(angle), 0))*25;
             
             Enemy.GetComponent<Transform>().position = target.position + randomVector;
+            nm.Warp(Enemy.transform.position);
+
             sound.PlayAproxSound();
         }
         else if((target.position - Enemy.GetComponent<Transform>().position).magnitude <= 22  && !playerOnce)

@@ -286,7 +286,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aproxSound: {fileID: 8300000, guid: a7bff6d4734c80349818b5e4f4a0bad7, type: 3}
   startSound: {fileID: 8300000, guid: 37880ba3fecb34f4aab5d8a7ea00c221, type: 3}
-  angerSound: {fileID: 0}
+  angerSound: {fileID: 8300000, guid: f916ad425d594fe4aa94312e4acf8f82, type: 3}
+  randomSound: {fileID: 8300000, guid: 1056a47ad309d5a479b15c316497c9e7, type: 3}
 --- !u!1 &7113623705997998322
 GameObject:
   m_ObjectHideFlags: 0
