@@ -2,37 +2,38 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+public enum EnergyDrinkType {
+    Type1,
+    Type2,
+    Type3,
+    Type4,
+    Type5
+}
 public class EnergyDrink : Item
 {
-    public enum EnergyDrinkType {
-        Type1,
-        Type2,
-        Type3,
-        Type4,
-        Type5
-    }
+    
 
     public EnergyDrinkType itemType;
 
-    private double getSpeedBoost() {
+    public static float getSpeedBoost(EnergyDrinkType itemType) {
         switch (itemType) {
         default:
-        case EnergyDrinkType.Type1: return 1;
-        case EnergyDrinkType.Type2: return 1;
-        case EnergyDrinkType.Type3: return 3;
-        case EnergyDrinkType.Type4: return 2;
-        case EnergyDrinkType.Type5: return 0.5;
+        case EnergyDrinkType.Type1: return 1f;
+        case EnergyDrinkType.Type2: return 1f;
+        case EnergyDrinkType.Type3: return 3f;
+        case EnergyDrinkType.Type4: return 2f;
+        case EnergyDrinkType.Type5: return 0.25f;
         }
     }
 
-    private double getDuration() {
+    public static float getDuration(EnergyDrinkType itemType) {
         switch (itemType) {
         default:
-        case EnergyDrinkType.Type1: return 20;
-        case EnergyDrinkType.Type2: return 30;
-        case EnergyDrinkType.Type3: return 10;
-        case EnergyDrinkType.Type4: return 15;
-        case EnergyDrinkType.Type5: return 60;
+        case EnergyDrinkType.Type1: return 10f;
+        case EnergyDrinkType.Type2: return 13f;
+        case EnergyDrinkType.Type3: return 5f;
+        case EnergyDrinkType.Type4: return 8f;
+        case EnergyDrinkType.Type5: return 25f;
         }
     }
 }
