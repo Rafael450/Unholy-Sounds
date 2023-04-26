@@ -26,6 +26,6 @@ public class MainAIController : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D other)
     {
-        if(other.gameObject.tag == "Player") SceneManager.LoadScene("Derrota");
+        if(other.gameObject.tag == "Player") SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
