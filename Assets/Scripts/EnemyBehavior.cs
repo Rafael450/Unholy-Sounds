@@ -31,6 +31,10 @@ public class EnemyBehavior : MonoBehaviour
 
     void Update()
     {
+        if(target == null)
+        {
+            target = GameObject.FindGameObjectWithTag("Player").transform;
+        }
         nm.SetDestination(target.position);
         transform.position = Enemy.GetComponent<Transform>().position;
 
