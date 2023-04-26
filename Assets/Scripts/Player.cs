@@ -28,6 +28,8 @@ public class Player : MonoBehaviour
     private EnergyDrinkType currentPowerUp;
     public bool isPowerUpActive = false;
 
+    private float pickupTimer = 0;
+
 
     void Start()
     {
@@ -49,6 +51,8 @@ public class Player : MonoBehaviour
     }
 
     void Update() {
+        if (pickupTimer > 0)
+            pickupTimer -= Time.deltaTime;
         if (timer <= 0 && isPowerUpActive == false) return;
         if (timer <= 0 && isPowerUpActive) {
             movement.speed -= EnergyDrink.getSpeedBoost(currentPowerUp);
@@ -71,7 +75,7 @@ public class Player : MonoBehaviour
     }
 
     void newVelva() {
-        velvaCounter++;
+        velvaCounter += 1;
         if (velvaCounter == 5) 
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
     }
@@ -121,7 +125,10 @@ public class Player : MonoBehaviour
     {
         if(Input.GetKey(KeyCode.E))
         {
-            Pickup(other);
+            if (pickupTimer <= 0) {
+                pickupTimer = 0.5f;
+                Pickup(other);
+            }
         }
     }
 }

@@ -7,6 +7,9 @@ TagManager:
   - Wall
   - PlayerLight
   - LetterE
+  - Flashlight
+  - Energy
+  - Velva
   layers:
   - Default
   - TransparentFX

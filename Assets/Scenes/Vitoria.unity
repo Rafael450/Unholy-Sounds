@@ -306,7 +306,7 @@ GameObject:
   - component: {fileID: 282127217}
   - component: {fileID: 282127218}
   m_Layer: 5
-  m_Name: Game Over
+  m_Name: Vitoria
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1108,7 +1108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6132076, g: 0.17740594, b: 0.17740594, a: 1}
+  m_Color: {r: 0.6784314, g: 0.6431373, b: 0.6431373, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Game over
+  m_text: Muito bem!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: fd89349892cdd3ec2ac818d4cbbe455d, type: 2}
   m_sharedMaterial: {fileID: -4439130656242836940, guid: fd89349892cdd3ec2ac818d4cbbe455d, type: 2}
