@@ -8,6 +8,7 @@ public class SoundController : MonoBehaviour
     public AudioClip aproxSound; 
     public AudioClip startSound; 
     public AudioClip angerSound;
+    public AudioClip randomSound;
 
     void Start()
     {
@@ -23,6 +24,11 @@ public class SoundController : MonoBehaviour
     public void PlayStartSound()
     {
         audioSource.PlayOneShot(startSound); // Play the audio clip once using the audio source
+    }
+
+    public void PlayRandomSound()
+    {
+        audioSource.PlayOneShot(randomSound); // Play the audio clip once using the audio source
     }
 
     public void PlayAngerSound()
