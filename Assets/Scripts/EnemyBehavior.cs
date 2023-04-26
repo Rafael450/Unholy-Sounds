@@ -41,11 +41,11 @@ public class EnemyBehavior : MonoBehaviour
         time += Time.deltaTime;
 
         if(time >= nextSecond)
-        {
-            playerOnce = false;
+        { 
             nextSecond++;
             if(Random.Range(0, 100f) <= 1)
             {
+                playerOnce = false;
                 nextSecond = 45f;
                 sound.PlayRandomSound();
                 time = 0f;
