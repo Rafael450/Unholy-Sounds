@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character : MonoBehaviour
+public class Player : MonoBehaviour
 {
     // [SerializeField] private string characterName;
     // [SerializeField] private float moveSpeed;
@@ -11,13 +11,16 @@ public class Character : MonoBehaviour
 
     public float moveSpeed;
 
-    public Lantern lantern;
+    public Flashlight flashlight;
+
+    public UnityEngine.Rendering.Universal.Light2D light;
 
 
     // ideias: escudo, boostSpeed, lucky
 
     void Start()
     {
+        
         
     }
 
