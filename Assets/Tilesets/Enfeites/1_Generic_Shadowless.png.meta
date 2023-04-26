@@ -1,0 +1,4346 @@
+fileFormatVersion: 2
+guid: 987fc990ee4139b48ad2dbe0511263b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1184
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b85a2bb277e746a935ab9c51268de
+      internalID: -119226544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1200
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8a4c02df9d7a445bd83ba17876afa8
+      internalID: 1079303879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1200
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7278e050e1616f54bb57228d9b833c9a
+      internalID: -1106023189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1216
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87784cf856391d44aed85d22979857a
+      internalID: -407219311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f38ff4de88f784b8265ec126142b6d
+      internalID: 1907756862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1197
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4433f8edba49bb41b5473540aaef989
+      internalID: 250298321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1186
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a2d9888a13db4d8dc2d9a488646dd
+      internalID: 519663618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1195
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7c6308a82e114f82b9fc9668d5583
+      internalID: 1046247527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1195
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843abaa7e78fb5248add70ce5b6271de
+      internalID: -23133109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1195
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf6e53c345c544887278ac84c666aa
+      internalID: -991956719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1168
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d34be449e1bfe46a0e849b1eec228c
+      internalID: -1859356128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1168
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d194055ea476b8e43b16a81e1c08311f
+      internalID: -180170475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc0ac6014d1ab04da9d84ada414b7ad
+      internalID: 458211440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d598e3088eaf164da86c6c32a9fff42
+      internalID: 1464131630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1140
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b03080abd949747a4a3753ea36a9b1
+      internalID: 1586827875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1168
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68deb7675f67e564d888c8fdc8a9eb81
+      internalID: -595638586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1130
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1323df958a33ad140baf26e12a1a8d44
+      internalID: -1414871857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1133
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03fe81468b3744e9ead479a2e4b556
+      internalID: -2121032648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d4a8adf13e0bf48a863de34ec5c9ee
+      internalID: -1542584211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1106
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aac9be0ccdde440bcb9f629407a97a
+      internalID: 1470370734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1123
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9e67a1a1e34446a13490e0bbdcdc5
+      internalID: 1200191664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1092
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d10485baf23c4b8934c060dbc570d
+      internalID: -499109648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1082
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcff3e3343ca9b488db317229563b2c
+      internalID: 1294611018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1085
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22db79f1e9a42e94f9df39eb88d5f0b6
+      internalID: 1431194311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1105
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052ac70b038f754c8476a4ea8763f3b
+      internalID: 783488663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1096
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad4226ae4b6fe45966fbba525b6f62
+      internalID: -1760783535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1077
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da13f54dab251054db960ef5fd1ff4ba
+      internalID: -10060867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1061
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37e91f95b203846a114b71b873bdfe
+      internalID: -1555903872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1061
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e74e9dc354234db678f89e1696d70
+      internalID: -1069144982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1042
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0341fbcb7e0e24d8b2f593faabc26e
+      internalID: 428967338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1041
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2199e6c96bc91334bb5312c6761c7c36
+      internalID: -1587836980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1040
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636dff4267770c9418480368c2b99c6e
+      internalID: 1321065785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1041
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb38e7653393d27429096e62d7efbb89
+      internalID: -1498914096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1041
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae9454815ec3c4d9e03acb7d99d388
+      internalID: -1749156396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1047
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec0b1f8e57d4c48ab0c45ed0248b87
+      internalID: 2033988515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1017
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3a882afcfa034585dfc2ba533e21a
+      internalID: -11552979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1009
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43be6443f78f16149b968414cc75130f
+      internalID: 1827160610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1029
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2eb38d83bc89843a14ff6dc64f63dc
+      internalID: -1159607575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1016
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f05d18ec3c858429f0f49594ffe236
+      internalID: -60913523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1016
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411608476633c7245995b32eaa2244c7
+      internalID: 925204873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb22a2ceb7de834380e0aa84b6535bf
+      internalID: 1940032087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 976
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822bb0c8cfefb2447929360580403022
+      internalID: 748789471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 934
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37065277145238e4293ae4c72a952a95
+      internalID: 2029098686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 940
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb37eb813362b974eaef3d6fcc2c234a
+      internalID: -1335652838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 951
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80770d4c6c990cb46a688029251bbde8
+      internalID: 389160930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 951
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c709f034e648c8a43ae850cc62945139
+      internalID: 866758115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 951
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7e017981712f4dacfbf9780a4baa5
+      internalID: -118246301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 928
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3310a5306d432c48a2ca97182329caf
+      internalID: 91852247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 928
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029d0602232919438874b87a7ee6d6b
+      internalID: -1166796948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 928
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7a5e99dc03c4e4e920655dde95c791
+      internalID: -2094708264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca8148420b51d459f3c40be4865e6b
+      internalID: 1230073361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 880
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f38b3640aa4834586358eb4c560434
+      internalID: -2071186846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 714
+        width: 199
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd350b873e293e4459d54ceea3b3ef9e
+      internalID: -1104543324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 902
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa64b4047085648afed56475921cf6
+      internalID: -971694684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 851
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc94cdcea953a4fa1bcdc7c4fe14d5
+      internalID: 1703930649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 810
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274084b869a1cd4db646d0bc17cafdb
+      internalID: 1968038280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 761
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c214bd2205c824fae1105993fbf9c7
+      internalID: -1467880455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 761
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254caae7b1ce8e2448e08f22c7b73981
+      internalID: 645935321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 721
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f180bb9ab0e7347bbfba65143ad0b9
+      internalID: -1343216200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 710
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5d2ddc0ad0c244abe976b55bba5484
+      internalID: -1543038866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 698
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3080c1944da1fa459408942d850ee6a
+      internalID: -1735662162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 698
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5dda4225d86541a052d136d506bf8
+      internalID: 1835754092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 666
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69ee897b28330489fc52cdee50d087
+      internalID: -2022744754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 669
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ee1fa4b03e894cbca8058f5f989b9
+      internalID: -925626379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 666
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84066a298d01bd44781a8d860b4514a7
+      internalID: 1283413755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 669
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a03e7a63a741c48a0a286c9f50d32c
+      internalID: -361786146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 666
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16adad297c3a45448a8641fa0fb6894
+      internalID: 370938686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 666
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f790b94747010c43993caba02ec6cd6
+      internalID: -510610862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 618
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d02d089b0d9f44cb36bb81e6c4dbce
+      internalID: 654261555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 621
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b7f37bddee644c931ab974bedffa4
+      internalID: 1473825141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 618
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83df772060092b4eaf171b3118119b7
+      internalID: 2028095288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 621
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e39d7278db754fbeee8e8ab5f4289
+      internalID: 1326193854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 637
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e4fe7de8d91d49a09ab6ca834c8e1
+      internalID: 2077001422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 577
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b236c837541bb149811680bf40b86d9
+      internalID: -496695837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 603
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622d9576a3f5f184b8517645bd90e450
+      internalID: 2134420824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 603
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6b55d0def23246897a264e504b2e1
+      internalID: 898096047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 604
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f407b67152ae44c80f0635ed1e98a5
+      internalID: -217726760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a5d8534f2bd2b45b3a54ac5dc7b113
+      internalID: -1160429735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 576
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ee62f40ce59741b564ef1c158b348
+      internalID: 944074363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 576
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b6df6b2f729048943cf017a0581f3
+      internalID: -156500477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 584
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c67a91efc6be141a4217ec00f64a65
+      internalID: 57358498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 545
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f39c1aee289bcc46be3be615f65c07e
+      internalID: 290786132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 571
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49f5e953b375e45b1568c3a6537ec3
+      internalID: 129505827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 571
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5670060e4f2224cb3e98467bc9d949
+      internalID: 1267805508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 572
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2da19da6505f04fb9e5c23f9a98fcb
+      internalID: -2100321872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 544
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f9fb3cbba3d64797daaede1f54e4d
+      internalID: 1609881586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 544
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a4bb1879a49548afd6e8d3ed25439
+      internalID: -1934287267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 544
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed049b460a77f249883b8ab3046b18d
+      internalID: 1839413890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 533
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3872e7e674a74bb05b18e2ddf515b
+      internalID: -1359361109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 533
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d9df1831732648803210bb0378894
+      internalID: -1081005648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 533
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eaa974274f4aa48a9622653cfb88b8
+      internalID: -2127235314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 533
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3fea2713511024ea8560e7a52d1a04
+      internalID: 1938929569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 533
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c52cab7088d604f99d4c937eaa1443
+      internalID: 2129763804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 514
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35944915e9956842a359b54095c6b51
+      internalID: 551960475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 522
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420d2e99eab743a4a8fefb34ba90af64
+      internalID: 1835238131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acc0c8e970b29247b9938deaeeb72ed
+      internalID: 1643791866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 489
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876142bd6888532408bfd7eb1750581d
+      internalID: 1531621567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 494
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9bcf7c305bd54ea73684ea7ae3152
+      internalID: -1757327762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 494
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7d6746b384ee4481733a9079d17e0
+      internalID: -1327028270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 494
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e59fad6050d1f4a8d83fdce9f36588
+      internalID: 1623430188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 501
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c69aaa94cb892241aafb7e21517fd33
+      internalID: -63860916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 448
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212b41d0c983f740b93d02272f710e1
+      internalID: -1130320476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 448
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87083fb52d0349542b04f6d2818e33e4
+      internalID: -454272216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 448
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520fd34bab9f6f349840286136dc53ce
+      internalID: -750137219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 469
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011358e69e592144b92a089b0053bfa9
+      internalID: 1035505382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67151674d97dd7041a6cd615d98e2d30
+      internalID: 385294707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd49e6a5030f9d45b6bf5d4d60c789a
+      internalID: -2000995454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 455
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc7d831c5cdc44c886295bd83be9cf
+      internalID: -29903730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848278586f8b855459b23e3247aa7b56
+      internalID: 730208707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b948ad5100a4d4ca3a23d8ca3d013d
+      internalID: 1415375824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 433
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5adf68586f344e438877f072e7e3ab8
+      internalID: -221794258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 433
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd44f57f1282546b85239f596e702f
+      internalID: -2131744587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 433
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c736852f09dd9f1499f1da9e0de4a769
+      internalID: 198950497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 433
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8440141f962734fbed68f55a91bb86
+      internalID: -1442913014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 426
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e145d489daf44c97fed8e3fdd1918
+      internalID: -1239349853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 426
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672320750150bf64998a78f82b4d88af
+      internalID: -1821492367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 426
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b52dffe1c91c7f47a59d32d55effb0b
+      internalID: 611977519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 426
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9f964cb644de408877b276f3f6ae1
+      internalID: -533803504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 426
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4e24f0682d6541bc20945b2713651
+      internalID: -582307048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 426
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25651745a93ce204db29a00759771ab6
+      internalID: -812458756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 426
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7beba73b5939b145a866c4c31cbdad8
+      internalID: -1580432480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 417
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eea21e737cd381428662d47058d131e
+      internalID: -1313610847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 417
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56dc225d68f8142be083548cfd0e89
+      internalID: -1481171159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 417
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6591df9dd2094f4d8217f0c72eca604
+      internalID: 5136380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 417
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624eb7fe590c6d40bb3b8d27eb03307
+      internalID: -310980245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631eb73dd8d22b54b8f50b911dfee319
+      internalID: 1596990269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 394
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be44a25d369ead48958392e45abf006
+      internalID: 617327977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 394
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca82bef55f4c5f244affba4c8a971644
+      internalID: 900770165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 394
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7711a85b4613274d9f98837b5f67ca8
+      internalID: 1693950846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_129
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 394
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375698be26d37e4895138d053006416
+      internalID: 2058551284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 394
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab727b7641be0104183213601bd280eb
+      internalID: 303904210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 394
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a6affb0cd72a40920614b6ac4ed63
+      internalID: 1130074964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_132
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 394
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc0d064f696da44a28c1782429a399
+      internalID: -1565158571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fd3231733cfe429ace9bdcd3639c6
+      internalID: 2028607218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_134
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 361
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ffba9def1e7e4fbad4fe4280fc1ac
+      internalID: 1003219529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_135
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 354
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c738db4bfea74c9a93383df368b70
+      internalID: 1419498513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 360
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aff19f04bbc284b92dd21938bffae8
+      internalID: -436398274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_137
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 361
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec307bf859f69c34badde76ecb8930f4
+      internalID: -1599936000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_138
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 352
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10847756664eab74193b15a74378f5e9
+      internalID: -22335278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 361
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ec5d75741091419d3fba07d496ef7
+      internalID: 1002585874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dab657bcb599a84b9d289221da13b17
+      internalID: -1787053380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_141
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 304
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c88a9acaefc04fb7100463c2a9e39
+      internalID: -1925857729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_142
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26cd26fe5f72b44b4c53fc7338c451
+      internalID: 1699781451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_143
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47923cc51ae012d4f939daf16231fda9
+      internalID: -468761568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358cb46fc55b9e43a17fc7ec99db277
+      internalID: 1933373940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_145
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 311
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f2151a774bb141a7fa074317d1623
+      internalID: 329225283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_146
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 311
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fbcb2e126fc6749aa457a2d38ab97e
+      internalID: 381244806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_147
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 313
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78c88d37baf004a9e6fd7868f9f18b
+      internalID: -756362272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 208
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc9d71507bbe742afde0ec8df07d5b
+      internalID: -1392668168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 291
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5f3ed5df041554e8caf93ceecc71b1
+      internalID: -1196351366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 273
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738a0b21d3a8ed488107214e5c9011b
+      internalID: 388311074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_151
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 251
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bcc69beb092342ba446d36dca141b
+      internalID: 541357044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_152
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 251
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd271547a1d951d4a9f10ddb50cfe863
+      internalID: 2022498022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_153
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 251
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460d2f87d016e449adf6577a94c39d1
+      internalID: 163444843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_154
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 215
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da35d1796cd8f438f794d018dd2790
+      internalID: 476883092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 218
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f475d26b1283f1241a1d262cda9fae6a
+      internalID: -1584862990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 202
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5298239fef244abe30dc540e196e0
+      internalID: 1158864449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_157
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1d2ae70f9f9941afdc93684b50e64
+      internalID: 1392336856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_158
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71c9465c445e448859b7881b0436a5
+      internalID: -1422150022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad503e10ac72334f87ce6173eee7739
+      internalID: 44352474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8335ba4c53500ef4ebb270132ed67d84
+      internalID: -1139913559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 146
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006cd99291827a408bc4ababa1bf6e8
+      internalID: -771576645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_162
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 145
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b2870a7f6f5a47821870a09eec99c
+      internalID: 1353742496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00cc23c54defa4391c876b065fdad8
+      internalID: 918230771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_164
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 135
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87265c7aa04be514ab28f2dfe1b49e5d
+      internalID: 695765518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_165
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 135
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d16e6c78de5d547a65a99748f6aae3
+      internalID: 1384531760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_166
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 135
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb87cac50a4c284890ea221d4bb8874
+      internalID: -662897259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_167
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 167
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb07bad15d77a74092513b67f806eb9
+      internalID: 850710657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_168
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 165
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1b51085145cc42b5551eec44ee0f8
+      internalID: 2073336808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_169
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 147
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204cb880a8469441832b8473a319aac
+      internalID: -1279113810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_170
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 147
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed574abae542a7b40ae59f3bed86ac5d
+      internalID: -1192660122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f1e4be94bb234090df15e68eb5bf5
+      internalID: -2059377148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350466047d73e094ca1cd57179b2ae21
+      internalID: 234819659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_173
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e8282cd27cfc40971d910e5c9dff8
+      internalID: 977164219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_174
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcee00f5886648409758944e02df7c3
+      internalID: 1004596369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8126c0767a8c484390ce5b0f1ce41e4
+      internalID: 1658536101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_176
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 119
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce32fdcbd5de4c4d9f406c4d166493d
+      internalID: 1432938072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_177
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dcc6d435e58024d858cca844c8d603
+      internalID: 493219724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5c811960c4b4d4e8b8a2b0cbb63221
+      internalID: 9624642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_179
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 103
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a2f2e469162e54c8cc89bc0aacb3b8
+      internalID: 1326557225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_180
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 104
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ef1d1b3058434682d771529eb90e5
+      internalID: 1888578837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d9cb35cafbd2428619c73e0ccb0bc
+      internalID: 682046679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42935db635ff44ebe7c9a5362067fb
+      internalID: -1788835996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75e5a38525cc34a946355ec3daf843
+      internalID: -758582683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_184
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb80be0fe3a1f4e852e711684d7cb7
+      internalID: -2096300882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac09e49f798354292009df86ea205b
+      internalID: 257707347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_186
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 55
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4890492c40e2b4487fdf00ac6cf428
+      internalID: 101674816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_187
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 72
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e56739cfc13ff4b88a26b7777b1b5c
+      internalID: -1788086408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_188
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9620a77482dff3341becaf8fb8ed9bdf
+      internalID: 1197611075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9e6ffb1143c6d4990581d15ebc0c10
+      internalID: -215540910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_190
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be133f9afa1209445b23f10499503a78
+      internalID: 441235944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Generic_Shadowless_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc20da03ce758249b12c5136214b0e6
+      internalID: 1060230961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1_Generic_Shadowless_53: -971694684
+      1_Generic_Shadowless_143: -468761568
+      1_Generic_Shadowless_15: -595638586
+      1_Generic_Shadowless_43: -1335652838
+      1_Generic_Shadowless_44: 389160930
+      1_Generic_Shadowless_93: 551960475
+      1_Generic_Shadowless_97: -1757327762
+      1_Generic_Shadowless_84: -2100321872
+      1_Generic_Shadowless_99: 1623430188
+      1_Generic_Shadowless_51: -2071186846
+      1_Generic_Shadowless_162: 1353742496
+      1_Generic_Shadowless_38: -60913523
+      1_Generic_Shadowless_104: 1035505382
+      1_Generic_Shadowless_46: -118246301
+      1_Generic_Shadowless_136: -436398274
+      1_Generic_Shadowless_180: 1888578837
+      1_Generic_Shadowless_56: -1467880455
+      1_Generic_Shadowless_73: -496695837
+      1_Generic_Shadowless_163: 918230771
+      1_Generic_Shadowless_65: -361786146
+      1_Generic_Shadowless_9: -991956719
+      1_Generic_Shadowless_20: 1200191664
+      1_Generic_Shadowless_126: 617327977
+      1_Generic_Shadowless_165: 1384531760
+      1_Generic_Shadowless_49: -2094708264
+      1_Generic_Shadowless_80: 57358498
+      1_Generic_Shadowless_138: -22335278
+      1_Generic_Shadowless_95: 1643791866
+      1_Generic_Shadowless_35: -11552979
+      1_Generic_Shadowless_36: 1827160610
+      1_Generic_Shadowless_127: 900770165
+      1_Generic_Shadowless_118: -582307048
+      1_Generic_Shadowless_161: -771576645
+      1_Generic_Shadowless_68: 654261555
+      1_Generic_Shadowless_177: 493219724
+      1_Generic_Shadowless_58: -1343216200
+      1_Generic_Shadowless_78: 944074363
+      1_Generic_Shadowless_160: -1139913559
+      1_Generic_Shadowless_109: 1415375824
+      1_Generic_Shadowless_124: -310980245
+      1_Generic_Shadowless_117: -533803504
+      1_Generic_Shadowless_22: 1294611018
+      1_Generic_Shadowless_154: 476883092
+      1_Generic_Shadowless_24: 783488663
+      1_Generic_Shadowless_173: 977164219
+      1_Generic_Shadowless_169: -1279113810
+      1_Generic_Shadowless_112: 198950497
+      1_Generic_Shadowless_63: -925626379
+      1_Generic_Shadowless_134: 1003219529
+      1_Generic_Shadowless_60: -1735662162
+      1_Generic_Shadowless_145: 329225283
+      1_Generic_Shadowless_13: 1464131630
+      1_Generic_Shadowless_25: -1760783535
+      1_Generic_Shadowless_131: 1130074964
+      1_Generic_Shadowless_137: -1599936000
+      1_Generic_Shadowless_11: -180170475
+      1_Generic_Shadowless_77: -1160429735
+      1_Generic_Shadowless_153: 163444843
+      1_Generic_Shadowless_101: -1130320476
+      1_Generic_Shadowless_120: -1580432480
+      1_Generic_Shadowless_166: -662897259
+      1_Generic_Shadowless_188: 1197611075
+      1_Generic_Shadowless_178: 9624642
+      1_Generic_Shadowless_140: -1787053380
+      1_Generic_Shadowless_55: 1968038280
+      1_Generic_Shadowless_184: -2096300882
+      1_Generic_Shadowless_150: 388311074
+      1_Generic_Shadowless_17: -2121032648
+      1_Generic_Shadowless_27: -1555903872
+      1_Generic_Shadowless_4: 1907756862
+      1_Generic_Shadowless_23: 1431194311
+      1_Generic_Shadowless_171: -2059377148
+      1_Generic_Shadowless_175: 1658536101
+      1_Generic_Shadowless_72: 2077001422
+      1_Generic_Shadowless_90: -2127235314
+      1_Generic_Shadowless_6: 519663618
+      1_Generic_Shadowless_33: -1749156396
+      1_Generic_Shadowless_92: 2129763804
+      1_Generic_Shadowless_3: -407219311
+      1_Generic_Shadowless_12: 458211440
+      1_Generic_Shadowless_76: -217726760
+      1_Generic_Shadowless_66: 370938686
+      1_Generic_Shadowless_14: 1586827875
+      1_Generic_Shadowless_94: 1835238131
+      1_Generic_Shadowless_141: -1925857729
+      1_Generic_Shadowless_88: -1359361109
+      1_Generic_Shadowless_96: 1531621567
+      1_Generic_Shadowless_21: -499109648
+      1_Generic_Shadowless_85: 1609881586
+      1_Generic_Shadowless_91: 1938929569
+      1_Generic_Shadowless_7: 1046247527
+      1_Generic_Shadowless_62: -2022744754
+      1_Generic_Shadowless_107: -29903730
+      1_Generic_Shadowless_102: -454272216
+      1_Generic_Shadowless_26: -10060867
+      1_Generic_Shadowless_29: 428967338
+      1_Generic_Shadowless_121: -1313610847
+      1_Generic_Shadowless_132: -1565158571
+      1_Generic_Shadowless_167: 850710657
+      1_Generic_Shadowless_5: 250298321
+      1_Generic_Shadowless_179: 1326557225
+      1_Generic_Shadowless_189: -215540910
+      1_Generic_Shadowless_187: -1788086408
+      1_Generic_Shadowless_113: -1442913014
+      1_Generic_Shadowless_106: -2000995454
+      1_Generic_Shadowless_81: 290786132
+      1_Generic_Shadowless_16: -1414871857
+      1_Generic_Shadowless_129: 2058551284
+      1_Generic_Shadowless_19: 1470370734
+      1_Generic_Shadowless_89: -1081005648
+      1_Generic_Shadowless_157: 1392336856
+      1_Generic_Shadowless_114: -1239349853
+      1_Generic_Shadowless_170: -1192660122
+      1_Generic_Shadowless_181: 682046679
+      1_Generic_Shadowless_98: -1327028270
+      1_Generic_Shadowless_108: 730208707
+      1_Generic_Shadowless_40: 1940032087
+      1_Generic_Shadowless_69: 1473825141
+      1_Generic_Shadowless_64: 1283413755
+      1_Generic_Shadowless_164: 695765518
+      1_Generic_Shadowless_74: 2134420824
+      1_Generic_Shadowless_52: -1104543324
+      1_Generic_Shadowless_67: -510610862
+      1_Generic_Shadowless_183: -758582683
+      1_Generic_Shadowless_54: 1703930649
+      1_Generic_Shadowless_152: 2022498022
+      1_Generic_Shadowless_116: 611977519
+      1_Generic_Shadowless_135: 1419498513
+      1_Generic_Shadowless_48: -1166796948
+      1_Generic_Shadowless_1: 1079303879
+      1_Generic_Shadowless_142: 1699781451
+      1_Generic_Shadowless_130: 303904210
+      1_Generic_Shadowless_61: 1835754092
+      1_Generic_Shadowless_176: 1432938072
+      1_Generic_Shadowless_168: 2073336808
+      1_Generic_Shadowless_42: 2029098686
+      1_Generic_Shadowless_119: -812458756
+      1_Generic_Shadowless_87: 1839413890
+      1_Generic_Shadowless_100: -63860916
+      1_Generic_Shadowless_139: 1002585874
+      1_Generic_Shadowless_2: -1106023189
+      1_Generic_Shadowless_103: -750137219
+      1_Generic_Shadowless_75: 898096047
+      1_Generic_Shadowless_172: 234819659
+      1_Generic_Shadowless_133: 2028607218
+      1_Generic_Shadowless_158: -1422150022
+      1_Generic_Shadowless_39: 925204873
+      1_Generic_Shadowless_105: 385294707
+      1_Generic_Shadowless_34: 2033988515
+      1_Generic_Shadowless_86: -1934287267
+      1_Generic_Shadowless_190: 441235944
+      1_Generic_Shadowless_156: 1158864449
+      1_Generic_Shadowless_28: -1069144982
+      1_Generic_Shadowless_159: 44352474
+      1_Generic_Shadowless_71: 1326193854
+      1_Generic_Shadowless_30: -1587836980
+      1_Generic_Shadowless_57: 645935321
+      1_Generic_Shadowless_144: 1933373940
+      1_Generic_Shadowless_151: 541357044
+      1_Generic_Shadowless_149: -1196351366
+      1_Generic_Shadowless_115: -1821492367
+      1_Generic_Shadowless_125: 1596990269
+      1_Generic_Shadowless_111: -2131744587
+      1_Generic_Shadowless_191: 1060230961
+      1_Generic_Shadowless_128: 1693950846
+      1_Generic_Shadowless_31: 1321065785
+      1_Generic_Shadowless_83: 1267805508
+      1_Generic_Shadowless_82: 129505827
+      1_Generic_Shadowless_70: 2028095288
+      1_Generic_Shadowless_174: 1004596369
+      1_Generic_Shadowless_47: 91852247
+      1_Generic_Shadowless_110: -221794258
+      1_Generic_Shadowless_0: -119226544
+      1_Generic_Shadowless_50: 1230073361
+      1_Generic_Shadowless_147: -756362272
+      1_Generic_Shadowless_79: -156500477
+      1_Generic_Shadowless_186: 101674816
+      1_Generic_Shadowless_10: -1859356128
+      1_Generic_Shadowless_41: 748789471
+      1_Generic_Shadowless_155: -1584862990
+      1_Generic_Shadowless_45: 866758115
+      1_Generic_Shadowless_185: 257707347
+      1_Generic_Shadowless_122: -1481171159
+      1_Generic_Shadowless_146: 381244806
+      1_Generic_Shadowless_182: -1788835996
+      1_Generic_Shadowless_59: -1543038866
+      1_Generic_Shadowless_32: -1498914096
+      1_Generic_Shadowless_148: -1392668168
+      1_Generic_Shadowless_8: -23133109
+      1_Generic_Shadowless_37: -1159607575
+      1_Generic_Shadowless_123: 5136380
+      1_Generic_Shadowless_18: -1542584211
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

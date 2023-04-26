@@ -1,0 +1,2960 @@
+fileFormatVersion: 2
+guid: 4c36db4e149deb2499d4962aacf6477d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 487
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5c0d4b1f222e4384170d8cb029f7e
+      internalID: -126529519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 505
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d3a80ca459f394c8aad2d851ae063b
+      internalID: -1197574976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 514
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7cea6a7660494ab8e9355bc4fe1c1
+      internalID: -923631980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 505
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dafc64987e3664d92c0921914ddbad
+      internalID: -1198570076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab112e5addc3c4c8d953a502537760
+      internalID: 1386114644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 470
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce740e8baeac1e43b33b3b72568aa3c
+      internalID: -1644660849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 491
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61c596af7dd9cc47bfc1efa2756aa12
+      internalID: -1832995064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 471
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b187a4f9f9ccd4eb74b3e63331856f
+      internalID: 531228283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 471
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27cb1cc0db3e049a4d481045869415
+      internalID: 1171137638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 485
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b507a8f9c312548ac623253f17d097
+      internalID: 1761345713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 439
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194779c4f710b234782b71dee8bc7eff
+      internalID: -1716891497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 473
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0999446df0b8e64480035ef34c729bc
+      internalID: 2013678792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 465
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0ec8a505bee14f8c4aa547e06c6b8
+      internalID: 1657879736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d2305caf23354c8d85f24ca6787bc
+      internalID: -1462174930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 422
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351574aa7ae35ba49a6da5aa0139afc7
+      internalID: -165174347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 441
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ba49d86caa0a40865b3412f6fd1c7
+      internalID: -150732185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 438
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9911994800ff674a8f745ef5fdb08be
+      internalID: -1043423682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 456
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68abd6beb44114195f3dae7c41b095
+      internalID: 1571307439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 443
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bbecfc822fc2f43ae88f38c42c925f
+      internalID: 864875882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 436
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c1796ccb29ada4fb292a9ed31d3a63
+      internalID: 107668449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d73b61af231348aaf4ba449be180a
+      internalID: -1481969031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 409
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5a0dce47863214a82c2890aed2c83f
+      internalID: 2014485520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151e107a59924843a28456dddc1f0e7
+      internalID: -1002794305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 406
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc370392f77e3478dd576e93f5214b
+      internalID: 1649899719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 406
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37fb7b2c9ca2b744b982fdade11602f
+      internalID: -1985265065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 419
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44af3f7507390246ba877806bd90afa
+      internalID: -1668265134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 405
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0cf502edab074bb33ae26f3e0789a
+      internalID: 778712059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 418
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d3f138f831da04fa92a1cdf7d252cc
+      internalID: 428873098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38433b3b13f8f434a84e355637244909
+      internalID: 1928614391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 374
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2e7dc839d2434f88f907d36637c48
+      internalID: -67101170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 395
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0f0bd0a8746c4dafefdc59e672a61
+      internalID: 1504213720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 403
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748af8972591b149952b096cafc75c6
+      internalID: 1729040104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 402
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6a0309e73ac6428d6157bb9fd865c
+      internalID: 607890645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 338
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228cd6519eea0d48bc4412ab17e3b5c
+      internalID: -1532178379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 377
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d886c050ed8bc4e993fc11f7928e79
+      internalID: 1506891122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 369
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f524007b2c783454989b399cf37f242f
+      internalID: 1070872187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 351
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0b4fdabe19f94a90982ff7e9877be
+      internalID: 1806500859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80e70d294f2a3459b06dc3b17d7573
+      internalID: -2129290171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74502a35d485274d95b1f13d71f7575
+      internalID: -709642363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 345
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab0cc2ee49c4af46a9975d3f5889358
+      internalID: -1171588189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 347
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb699fbfc9db534fa624758a440706e
+      internalID: 1512061931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 306
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4392e53ae1af664b9f63c5580b84d58
+      internalID: 1702402106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 310
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c808802ba6cc49243ba2359f1081d13b
+      internalID: 792467560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 312
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6808d367fcde7549aee8bd6077bf170
+      internalID: 1016147358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 286
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a7d8042879904fbb3f06986263c94
+      internalID: -707975444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 320
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057dcd5b946ff8d4d9522dd7d2a98d94
+      internalID: -2076745835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 305
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf5000ce7d4ac4cb4e3d4568ba29a5
+      internalID: 348630893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 278
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230908780f321b947b12a8e2b0a3aa40
+      internalID: -1684532662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 283
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743e537c0f2a834bb5a7d1d26b8553c
+      internalID: 1165171241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 278
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90b0e362b752564692d2d8c496827ab
+      internalID: -772792175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 280
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e89926044d8584d847800837ed5cff
+      internalID: 42454480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 280
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c22ff2a8e36649a9be1c131ac8fca
+      internalID: 1736765761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 257
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0bf3beb6a19944954d7461d7ca1b3
+      internalID: 1112770825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 246
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128719377d4d793469bec401d8cf27b6
+      internalID: 283012185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 248
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c4640751c98f24e993483aace34ab4
+      internalID: 195122199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 226
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5d5db1d5064345b2115fd9d47cd08
+      internalID: -1261769533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36853f1e923d8f54fa45c8cca60dc785
+      internalID: 1318552271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 201
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc29abd14a847e14884ece12aca3bf0b
+      internalID: -751828579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 201
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de4d1698acfb941b79802e07b992e3
+      internalID: -1902613344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 201
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284efe33670894740afde1a3b29b9266
+      internalID: -242414969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 201
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5d912b014fe24ca1ee16b0ab676fb
+      internalID: 964475399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 196
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf434ff43c062742a3b96b0ba64caf1
+      internalID: 1137553133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec224f6231b4f1e46870238dd179c41b
+      internalID: -1060798874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a581cc3a9efef49bdde30f18736c73
+      internalID: 1697493420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cc2b7db15bac41995b6a94d56a054
+      internalID: 62994182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f90abb7901e247b7e665b93c14957
+      internalID: 1964597023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 184
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc0c4072dd8564e8b7d24604413710
+      internalID: -129516558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 183
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa54920f136943468f9cb8be1e80daf
+      internalID: -1992953887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 184
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75e8f5d703edb4d92c13ea00d09e0a
+      internalID: 1525510301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 183
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0ee9e149a3e14b81cc1f7ed653954
+      internalID: 951557576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 178
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492bfc7e69090684eb6bf39665a16f47
+      internalID: -1598636014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 179
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d333421d9e814c8da586b437ab3ad
+      internalID: -1914597423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 179
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69584f8d428409d4db4bf850da4f8a94
+      internalID: 2078167726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 167
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdf1408503e1c74f83210918bf61fbe
+      internalID: -400956218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 167
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d869407e08050543a9484a220c5543d
+      internalID: 791278360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 162
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28316766cdabdaa46bfbffa9f8f79463
+      internalID: 631864407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef04c0872cbd74ca92c8511fe69b6a
+      internalID: -1290113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb7e2b1d0f9aca42b4a49d67977771f
+      internalID: 388304888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62955551ed1cff347ac98f3eed86c7be
+      internalID: 176578997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d398128935a943b4d804ed4fd0bd8
+      internalID: -821050247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7014d63ad0d2c4a9e61ef779f9e231
+      internalID: 2044812280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151881a180697b45910208e9690f961
+      internalID: -10062196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef28e2bc873874289c193dd5dba5ee
+      internalID: 1025226638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113acb946e7f4954a8ceb0148e18fa9c
+      internalID: 1649700249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 147
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56265765e9223da44930a7cc72a4d6e5
+      internalID: -1930805156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 146
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a9d9e033b91f43b557d21dfb56317
+      internalID: 1571873130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab88d1756a5676b469cece02e79a31fc
+      internalID: 1129722196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e766ab06b50e04a9176b691be2f953
+      internalID: -65068169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d76a4db8719444b2a04372e892a8d
+      internalID: -883251246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 130
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c19238d6d103469dac26d0eb606af
+      internalID: -1471455821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 116
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f71d946ebe0431439ecad694fef4d93
+      internalID: -1866109907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 116
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5570fa6ea398c4ca8a53782b8c9861
+      internalID: -782756767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 131
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7775000860e644808ddb84d0005a7
+      internalID: 852795733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 131
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59308b08e5ed6c14b9300d94b6229cf2
+      internalID: -852838317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86694c92f5a01b941a6d10c1e82b5baf
+      internalID: -294053108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25eb286e53081348abd5f93f949c365
+      internalID: -951694581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa27195cee9bc46929afdb2430ba7d
+      internalID: 1310078769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 105
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53370a2ba34fdc4f991e794c4813b8e
+      internalID: -355440461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 105
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba97769ea92cd414da5ed23952bc6a50
+      internalID: -1596153015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 105
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5452767dce3d44eb91d59fa10d787d
+      internalID: -1017515057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 80
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bc0937c881f1b4ebee9f67cf49dd9d
+      internalID: -1519214677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 71
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e2c1b3c40af74d913dd39e24e6859
+      internalID: -792753673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda77dc670ccfa14ba11e6244af9f292
+      internalID: 1435187850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420773fc7456ae4698b171f55a5025b
+      internalID: -1462843748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964aa54cce396d34ab640f1018f3524b
+      internalID: 270447442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11907b2f94f13438e455978a20726b
+      internalID: -937657937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f1bca8959f894297f87b7489e33e3
+      internalID: -402392978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39441cc93ffef849ae8dcd9b7b31b1c
+      internalID: -2037577789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b20a8c7a7cbcc419486b896266704e
+      internalID: -359481295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a2a1d7086faf4d8a121c586009744
+      internalID: 544520686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294bb40720b8b9745a75e53b19a2a247
+      internalID: 2021212696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f443b1aaf0c445ae6d5ce82f220ad
+      internalID: -933298444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe3ff433ff54141b5aa5f52a620702
+      internalID: -1676117442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 50
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc60e301e912e49899d3712a9d22f5
+      internalID: 1844324959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 50
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b73f5b0e59704da443730283c5f7a
+      internalID: -1725041363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e94d99440011a42b31873bc7f6126b
+      internalID: -170188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c4a10236ec9d4687b1d280bd520f9
+      internalID: 1261175686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baced41b19c030b40968a1c4b5373ae4
+      internalID: -2018197531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4df4add716e042ba895bcda402ef7
+      internalID: -1517902449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636204e19b2614c4ebf847391d054192
+      internalID: 823177840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe839f724de0ab46b73675e83b074b3
+      internalID: 18646900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224b4c4f4435d549ac0cabd8866fc3d
+      internalID: -580980292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 16
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d74ff0a6aba894999a5fd7ebfe09a2
+      internalID: 1236405553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b3ff81572c6b44ead48d84e1081f5a
+      internalID: -1028384325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2468deeecc3ff47ab0946b90d57a04
+      internalID: 705723972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 34
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd1dc3904241247b9062ca9d752860
+      internalID: -1043747472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc56b4dc9f6a664baf27e86099bf86c
+      internalID: 17789726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3291a30cdcec8459b3a309d8c081ea
+      internalID: -1732419896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_Gym_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017862f73d6c574ea2b05b26f8a99b0
+      internalID: 1528595277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      8_Gym_Shadowless_61: 1137553133
+      8_Gym_Shadowless_48: 1165171241
+      8_Gym_Shadowless_75: 631864407
+      8_Gym_Shadowless_89: -1471455821
+      8_Gym_Shadowless_80: 2044812280
+      8_Gym_Shadowless_92: 852795733
+      8_Gym_Shadowless_99: -1017515057
+      8_Gym_Shadowless_27: 428873098
+      8_Gym_Shadowless_30: 1504213720
+      8_Gym_Shadowless_123: -1028384325
+      8_Gym_Shadowless_106: -402392978
+      8_Gym_Shadowless_24: -1985265065
+      8_Gym_Shadowless_3: -1198570076
+      8_Gym_Shadowless_28: 1928614391
+      8_Gym_Shadowless_118: -1517902449
+      8_Gym_Shadowless_22: -1002794305
+      8_Gym_Shadowless_67: -1992953887
+      8_Gym_Shadowless_29: -67101170
+      8_Gym_Shadowless_15: -150732185
+      8_Gym_Shadowless_57: -751828579
+      8_Gym_Shadowless_52: 1112770825
+      8_Gym_Shadowless_116: 1261175686
+      8_Gym_Shadowless_91: -782756767
+      8_Gym_Shadowless_55: -1261769533
+      8_Gym_Shadowless_122: 1236405553
+      8_Gym_Shadowless_47: -1684532662
+      8_Gym_Shadowless_65: 1964597023
+      8_Gym_Shadowless_82: 1025226638
+      8_Gym_Shadowless_102: 1435187850
+      8_Gym_Shadowless_2: -923631980
+      8_Gym_Shadowless_62: -1060798874
+      8_Gym_Shadowless_110: 2021212696
+      8_Gym_Shadowless_117: -2018197531
+      8_Gym_Shadowless_107: -2037577789
+      8_Gym_Shadowless_18: 864875882
+      8_Gym_Shadowless_126: 17789726
+      8_Gym_Shadowless_34: 1506891122
+      8_Gym_Shadowless_70: -1598636014
+      8_Gym_Shadowless_58: -1902613344
+      8_Gym_Shadowless_37: -2129290171
+      8_Gym_Shadowless_112: -1676117442
+      8_Gym_Shadowless_38: -709642363
+      8_Gym_Shadowless_53: 283012185
+      8_Gym_Shadowless_46: 348630893
+      8_Gym_Shadowless_73: -400956218
+      8_Gym_Shadowless_127: -1732419896
+      8_Gym_Shadowless_124: 705723972
+      8_Gym_Shadowless_84: -1930805156
+      8_Gym_Shadowless_10: -1716891497
+      8_Gym_Shadowless_35: 1070872187
+      8_Gym_Shadowless_66: -129516558
+      8_Gym_Shadowless_108: -359481295
+      8_Gym_Shadowless_71: -1914597423
+      8_Gym_Shadowless_14: -165174347
+      8_Gym_Shadowless_76: -1290113707
+      8_Gym_Shadowless_7: 531228283
+      8_Gym_Shadowless_20: -1481969031
+      8_Gym_Shadowless_74: 791278360
+      8_Gym_Shadowless_31: 1729040104
+      8_Gym_Shadowless_50: 42454480
+      8_Gym_Shadowless_83: 1649700249
+      8_Gym_Shadowless_13: -1462174930
+      8_Gym_Shadowless_21: 2014485520
+      8_Gym_Shadowless_115: -170188
+      8_Gym_Shadowless_128: 1528595277
+      8_Gym_Shadowless_43: 1016147358
+      8_Gym_Shadowless_59: -242414969
+      8_Gym_Shadowless_54: 195122199
+      8_Gym_Shadowless_64: 62994182
+      8_Gym_Shadowless_49: -772792175
+      8_Gym_Shadowless_100: -1519214677
+      8_Gym_Shadowless_69: 951557576
+      8_Gym_Shadowless_33: -1532178379
+      8_Gym_Shadowless_16: -1043423682
+      8_Gym_Shadowless_111: -933298444
+      8_Gym_Shadowless_95: -951694581
+      8_Gym_Shadowless_98: -1596153015
+      8_Gym_Shadowless_40: 1512061931
+      8_Gym_Shadowless_32: 607890645
+      8_Gym_Shadowless_56: 1318552271
+      8_Gym_Shadowless_86: 1129722196
+      8_Gym_Shadowless_103: -1462843748
+      8_Gym_Shadowless_45: -2076745835
+      8_Gym_Shadowless_39: -1171588189
+      8_Gym_Shadowless_88: -883251246
+      8_Gym_Shadowless_119: 823177840
+      8_Gym_Shadowless_104: 270447442
+      8_Gym_Shadowless_105: -937657937
+      8_Gym_Shadowless_97: -355440461
+      8_Gym_Shadowless_11: 2013678792
+      8_Gym_Shadowless_44: -707975444
+      8_Gym_Shadowless_12: 1657879736
+      8_Gym_Shadowless_113: 1844324959
+      8_Gym_Shadowless_60: 964475399
+      8_Gym_Shadowless_25: -1668265134
+      8_Gym_Shadowless_1: -1197574976
+      8_Gym_Shadowless_9: 1761345713
+      8_Gym_Shadowless_94: -294053108
+      8_Gym_Shadowless_77: 388304888
+      8_Gym_Shadowless_42: 792467560
+      8_Gym_Shadowless_85: 1571873130
+      8_Gym_Shadowless_23: 1649899719
+      8_Gym_Shadowless_125: -1043747472
+      8_Gym_Shadowless_114: -1725041363
+      8_Gym_Shadowless_72: 2078167726
+      8_Gym_Shadowless_121: -580980292
+      8_Gym_Shadowless_78: 176578997
+      8_Gym_Shadowless_6: -1832995064
+      8_Gym_Shadowless_19: 107668449
+      8_Gym_Shadowless_63: 1697493420
+      8_Gym_Shadowless_4: 1386114644
+      8_Gym_Shadowless_26: 778712059
+      8_Gym_Shadowless_17: 1571307439
+      8_Gym_Shadowless_5: -1644660849
+      8_Gym_Shadowless_79: -821050247
+      8_Gym_Shadowless_87: -65068169
+      8_Gym_Shadowless_96: 1310078769
+      8_Gym_Shadowless_51: 1736765761
+      8_Gym_Shadowless_120: 18646900
+      8_Gym_Shadowless_0: -126529519
+      8_Gym_Shadowless_101: -792753673
+      8_Gym_Shadowless_81: -10062196
+      8_Gym_Shadowless_8: 1171137638
+      8_Gym_Shadowless_68: 1525510301
+      8_Gym_Shadowless_109: 544520686
+      8_Gym_Shadowless_41: 1702402106
+      8_Gym_Shadowless_93: -852838317
+      8_Gym_Shadowless_90: -1866109907
+      8_Gym_Shadowless_36: 1806500859
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

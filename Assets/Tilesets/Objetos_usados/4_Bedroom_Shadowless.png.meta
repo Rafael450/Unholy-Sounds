@@ -1,0 +1,6876 @@
+fileFormatVersion: 2
+guid: 235926f6ff767e6478b4a258d0ee97fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1658
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64cd29da5e26f840a5da36e438e37de
+      internalID: -863555479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1658
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71df8de296a993649a6337e7fe30622d
+      internalID: -302666312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1658
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3c1857d812fc44abb83759e81c735
+      internalID: 326064320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1640
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b363db2c1a19846a4c430f04242e5f
+      internalID: 1430324671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1652
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a36d3fc5796a43a2b6c2cd8ccdfb2
+      internalID: 793658584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1670
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0e49045f47fe48834a8041e5f044c
+      internalID: -1954470404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1629
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55562d752844c9d48a3d693d28631a04
+      internalID: 334426513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1629
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9669cdb12b624893c3f974e6ff515
+      internalID: 1137254036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1629
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f74a9d4deca046a4bbf0060138938
+      internalID: -684269003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1629
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb573dff590e9f43a2aa9c2caf1102e
+      internalID: 988518794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1626
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd13b92fd015774c9462febbc33ffba
+      internalID: -511153820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1592
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8e9655ac3e3648b89ca51dbba2262
+      internalID: -1412992537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1589
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18fa55cd39ac0e49bd477a33a02b1cf
+      internalID: -1743230351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1622
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa0bf7dfd769345ab775d0dcc122d9
+      internalID: -269162356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1584
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd26cf78fc06ee4c9067a2bfcd93603
+      internalID: -771113379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1560
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7120087b32f445aaea9541db2f3d7
+      internalID: -467563895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1574
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada0d74572bb4d469aad124e0bb31a5
+      internalID: 37798876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1557
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e28af7b193c304aa16e34ab3c47bf2
+      internalID: -1455329084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1525
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9433a70d3e789847ad8bdbb5d581cb2
+      internalID: 633702625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed59c54721288344b7d5d494c6b0915
+      internalID: -933483279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1524
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73819300f7c545c43aaca2118bfb6731
+      internalID: -967460253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1523
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555886193a7c52d45801a5fadfcb005f
+      internalID: -1610864258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1522
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d29bd7f7e8f24487501b705d07d7a
+      internalID: -51583328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1488
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491e7afdadca6e4994f50e63f2736c2
+      internalID: -253636884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1489
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afa345febb5ed4f9fc13986ab85b2d
+      internalID: -2627965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1466
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182445db57a57e48ac8c1d206173515
+      internalID: -1882489116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1489
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4a46964812594ca247c09b60d18c0
+      internalID: 438856635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1488
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7cc94204853e48b7cb3060fa3a5e2
+      internalID: -1947896514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1490
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002918f9fa806646a26f509c92092ea
+      internalID: 1485792454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1493
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a10a2564991b04dbeaa1d6791d6ae6
+      internalID: -2066053691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1456
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fccbef15d6af4f955a37b9ba354ff
+      internalID: 723584372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1457
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8055561d3c76848a7f05608c66009f
+      internalID: 1420829840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1457
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358aaedfb1bce6640a7f2cb524b9a95f
+      internalID: -1217961426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1456
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eda4a57c24e5a42a620e90bdc3fb49
+      internalID: 1991724731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1458
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d440756e40e48834493c17535fe87f86
+      internalID: -62626164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1461
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e23580d9b1ddc24392e99926616451b
+      internalID: -775276624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1424
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ad275361839f46982b92efd8cdbc5
+      internalID: 536152989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1425
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e7a3bb0bf06e49a54256ec9b466e0
+      internalID: 896866783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c14d1f09ddde24686318ed2828e100
+      internalID: 214581560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1401
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70e374e186fff40b817c8bef60999b
+      internalID: -1030649968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1425
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dd2ca62f5c9d147b7f9e59320d3a4e
+      internalID: 973682787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1425
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d522fc9d11adc7f4e92f2112f2b894c5
+      internalID: 398966705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1429
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4e1d6b25679e4da4c60e691d6c5aa
+      internalID: 1455066172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1401
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e0cb9c6fa49d43aae63075e85254b
+      internalID: -1506701593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1401
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862e09d25d4e224c960d89161a44c5a
+      internalID: -1283291736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1400
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb0751954aec14686f6fb53cb7a3fc
+      internalID: 1989342148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1393
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461c5e86c9813649a9ff2a3dd90bdab
+      internalID: -1637754209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1397
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef22a5c6037c9842bc8068a35f7e7c2
+      internalID: -23271243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1369
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5388b501c99a14c4890e1afe458bd420
+      internalID: 1180169033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1374
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76c641ad8801a4886ba2c7735ba767
+      internalID: -126229063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1373
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f409ad34e943eb43a0307dd3132d753
+      internalID: -1876188318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1368
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889312f02d10c764ab61fb042594f544
+      internalID: 112834042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1373
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee1de9ef4ace64c98ed4ba74f755a9
+      internalID: 710462352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1371
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f84ec7667675948823f98d515cf390
+      internalID: 91659570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1340
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312e9f3312ba8849a1bb1008c445e3f
+      internalID: 476721699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1340
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99e92fd45997d440b25ba4fab09ebf9
+      internalID: 910478869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1340
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d037f4c9d2baf44816d51c277f8739
+      internalID: 2129869816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1340
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961fed357db7c744a6cc83eae7e8928
+      internalID: 2061873356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1367
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538ac72f9afcc64fb198b074b4b14d2
+      internalID: 1222005250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1329
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304714ffe10f44489c5f14baa95cfa0
+      internalID: -1980866709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1329
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1623ada2ea03be44da3735687c481790
+      internalID: -630495611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1338
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94542e6816c884b8c355cea3edec16
+      internalID: -1166912494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1281
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a331933aea49d47a169e33a45407ea
+      internalID: 699799882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1281
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bce89cbea621542bdd2302e35a82a1
+      internalID: -595718747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1281
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8ffb4cd7c1344cbd65e3648d818a6
+      internalID: 306911765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1299
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55481c82e46c9c4f8f2264630cc0cc9
+      internalID: -619656237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1288
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421d0e63ad27bc459ef0238d3c2b8bc
+      internalID: 255971823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1288
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691461867b8f5f2489f2d08bd138aecf
+      internalID: 1761864756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1288
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec52b091e0b0df940b924a65a5ff0008
+      internalID: -1365296174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1287
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7b06e6e1a3c846b5e18f1795fa5f6
+      internalID: 404456731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1254
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6084361f3235294583076bf8dfdd508
+      internalID: 480184610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1254
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982b2fc873a89f4581b67ad6b5acd82
+      internalID: 1971899984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1254
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87e9d51549ab94d9df756d09e8dcce
+      internalID: 1494566984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1254
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1074e6fc13c1943933be8de3a556fd
+      internalID: -1476575035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1228
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e38652f0f3ed34eb47f9339667068a
+      internalID: -941079213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1219
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c76a6aa14b4ba438d2c574dc1e9ae6
+      internalID: 1950754582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1219
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb429d494d7b946b4cef3d551daeed
+      internalID: 1962140013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1216
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebbe857b5e08704f8b364d76a68775f
+      internalID: -1752497655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1186
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e5b41b640c724691760ff536aa9a6
+      internalID: -9961885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1186
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05becae2766bcc546b319581fe756520
+      internalID: 1180798838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1170
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ad0a13797ef2045a832ea17449ab78
+      internalID: -1682036593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1184
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f91e6a19b668447b58c7490a2f6b29
+      internalID: -819630745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1154
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd2dfa8ea97c144a1dcf1a345bfd67
+      internalID: -653283397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1142
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e7602024a3e6439e5e547f749e7bb
+      internalID: -1743289392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1142
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8a0f891b116446aa0a904ad3cd3e8
+      internalID: -1127503360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1152
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7401851627c64388c8723291c4391
+      internalID: 459834133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1122
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c2aef5792c204f85e975e92f3c439
+      internalID: 1569443652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1122
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62238774853b85e4c9bccda60c021aaf
+      internalID: 1514189306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b67470f9b2484ca53d5dc30ad11af
+      internalID: 1021160957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1109
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b837496d3b8964a981893d5fd1c0e2
+      internalID: 1875455689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1109
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7f2343e00c8542a305dcea2fd435d
+      internalID: 1775612413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1109
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f560ae67da5eb45aac6a45e0cd7ba0
+      internalID: 1683348865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1109
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cca253c04d0dc45adc9d229eb25384
+      internalID: 843796397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1104
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c61208f383834789b08dca443d60c
+      internalID: -32748930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 960
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4686169dad85f7340b430de14df08aea
+      internalID: -1532445990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1066
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aae68a50ddef04d9471e34aebafd67
+      internalID: -382726606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1066
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652566bf7ee83d94bbb4169bcf1ded59
+      internalID: -18792390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 960
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9ec7c1fe800b44ebdaa0d1456edf42
+      internalID: -1753715140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1067
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a33f55d141a64d8fc7376e17cbd1b
+      internalID: 321504047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1018
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00951b9fc62abfb4a9df01c952fb023f
+      internalID: 1195837579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1040
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956e8290aad306441a6dec9998c0bac0
+      internalID: -925469101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1018
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5046766b7ccf942933dfed53d09213
+      internalID: -1732655832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1040
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d6e090552c4d4886aa98148283f2e
+      internalID: 443210555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1035
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a064ff5dab929c4199b6cce7c776ac2
+      internalID: 1875882256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 992
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4de36f2d22be458e9f390cd9359c3
+      internalID: 1236779373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 992
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47212582f32b49b42806a7a6379a5849
+      internalID: 1061036938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1003
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0754557a0eaa94d8fbb95352be56a3
+      internalID: -969126836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 970
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29093b6677e7ef2469d6c79d276b20a2
+      internalID: 63634257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 970
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff4b89e5d497d4ca2f831a624f3d83
+      internalID: -995671817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 971
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ed2beaf37d314d8d6eb549e3694f4
+      internalID: 683347066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 939
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710af50b4241f46489f9248dd6e5a77c
+      internalID: -1646909838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 922
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098cef7737115540b771cbada1b54b8
+      internalID: 391305167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 944
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab675a94f78f44094744a8ad24cb8b
+      internalID: 1553931428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 922
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065490009649f6c4d906dcf6b1c80b5d
+      internalID: -1923450669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 944
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66138fa064201bb4594734dc2eea937a
+      internalID: -905613733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 939
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52666c4ddd1f23441af42b2cff2f5bb9
+      internalID: 480282934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 939
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ec1541d43ccd43bde6dc3d768e2cc
+      internalID: -956860847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ce5aa13a63ac4a8da74d552e3c8cd
+      internalID: 1256174099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 907
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e757093f0679340a045b56c30543ec
+      internalID: 1705166613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 907
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2102a302376547857da535a93e62a
+      internalID: -337695343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 666
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805507b1fbc82524ba625997418bd285
+      internalID: 2089696724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65fa8ac1d0f0b742b02ab2ec7589d44
+      internalID: -568045027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d518d3549aa244280495367d4c6c81
+      internalID: 1632252918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846faaa6cc9b8f4e8c6d9f854805ab7
+      internalID: -532025175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a9f69014b2ff42badb27093a21438
+      internalID: -1262655688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894fd2b07a072b43a50d0de9aa011e3
+      internalID: 928413851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 647
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95192f0c638958b40997fff5549ebada
+      internalID: -159172322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 641
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbae2cb2b8d77a43a1736616bb36162
+      internalID: -1319193513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 641
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dca09981a81bae4eaf5efc9916e6a61
+      internalID: 475148319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_129
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 641
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748afd2f2b1d5cd46bce600e136d6096
+      internalID: 2043794422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 641
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621b19c2228eb541aca57f2e683318e
+      internalID: 779340757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_131
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 641
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb304bb023815d4ea7eeb5156781720
+      internalID: -312340607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 641
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd405dd4d20b649b863775bc30e777
+      internalID: 1983618063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 615
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8882a44eee28da468642a1819d6edd6
+      internalID: 108916990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 615
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074cec8fa39b664da00ff8b23db05a1
+      internalID: 541750924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 615
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4fb1774bd63114d9614cc1a69521a3
+      internalID: -786917107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 612
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031226a40b8b314428d0dceb81c18a08
+      internalID: -2051240126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 615
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471cf26bc3697f14db7859ced90c30c7
+      internalID: 1302960796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_138
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 615
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64ca0eae67e114cb2a207d45ebc2dd
+      internalID: 1626090853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 632
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1389ace41649eae43bfb248a46d3d5c7
+      internalID: -36739273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_140
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3974953f026945aad79c0def0ec98
+      internalID: 1036554120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 609
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a421a46efd0d48bee4096f66fb476
+      internalID: -1530384820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_142
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988eeaf08e24e9245aa159a6f302bedc
+      internalID: -120013805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 609
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d06c8d5a244534383a7cb0ce116a16
+      internalID: 2003946592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_144
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051cadc66cc3124f9c1912011383df6
+      internalID: -263590830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 609
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27187f44e883f84caee7f3d2a6b634b
+      internalID: -239465498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 583
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1107447f5dd985641a9fb95793f0b14a
+      internalID: 774892044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062a1e3939be513438fe53f8cd5a5aa8
+      internalID: 72593688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_148
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 578
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1fb2d146c107a4d8a1463dbdb8fe36
+      internalID: -359327535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 578
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc236687ba6090542bcf1aec64503f93
+      internalID: -987515980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_150
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 578
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b6a379f54b964795cb35c36f2113e
+      internalID: 1014098057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413bfe3c3d27fe41b67b66982357b95
+      internalID: -858645011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_152
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 578
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb1ad33dbecd0499fc9358202e94c3
+      internalID: -1542004926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_153
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 578
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecdac86b389a76409d612c6f7d2810a
+      internalID: -2038714505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_154
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 583
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d26f76ac03fbf548bf362610903507f
+      internalID: -687579215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_155
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 583
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709340d9ea69bd84c818904a27259076
+      internalID: 1101788459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 555
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f838abf069a5040994f681a2e3eda3
+      internalID: 1097461359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 550
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340490e15c2771f428d180326839471c
+      internalID: 1444519262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_158
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 550
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dc4719712e6ce4cabecfb2c3f15917
+      internalID: -1020078543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_159
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 562
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7c89523072b84bad3c21dbafca0d6
+      internalID: -2115139672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_160
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 562
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b499a4acef17a5c4f9949601d0186384
+      internalID: 666252407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_161
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 562
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7514541f32c3e43a4c3239615979ab
+      internalID: -1782176220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_162
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 561
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae19a04d7303d943b87e8398a223ca0
+      internalID: 1391171142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_163
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 554
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674accb1ee7faaa4da87059b6a70e1f4
+      internalID: -746475137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0bad7434fd276489cb73de5516d25b
+      internalID: -359741202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_165
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48debcba9ce02444790ffa8ca38c18f6
+      internalID: 793739468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b793ce05b5ac154195cc3af9da427dc
+      internalID: 318474044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_167
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 549
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ee694b64e67e4192c73e0ac3a2b09
+      internalID: 423582493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_168
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 544
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c41743871b184081b73828cb12dfa
+      internalID: 1068674481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_169
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 544
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0091012beeb74da2f5b8c057e6f1c
+      internalID: 1289164452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_170
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 544
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6540886a12f7ea489d9bffb7436f98a
+      internalID: -1719682588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_171
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 546
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ebe53724a9fd42bc1f352db98ddc0
+      internalID: 1477075565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_172
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 546
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5455ccc0b7e65f2498ecafdce3f780f0
+      internalID: -1641363007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_173
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 546
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4d1870ca82f942977e58996d322f5
+      internalID: -60783111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_174
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 529
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07a7a3d0b5f614199d96916f003e96
+      internalID: -1038508485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_175
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 533
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dec638a23e8234faf13e9c9fd85de5
+      internalID: 604879747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_176
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 521
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636b83fd89363c45a3428b1716b5529
+      internalID: -815916497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_177
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e85c15e695614b4b8163d07e678deea
+      internalID: -1558679117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_178
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 518
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e0bcfe22d63342a88fc7a3d3db1f9
+      internalID: -1645043616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_179
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 518
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b63bd0d9da22e48a2fb7d98650ca56
+      internalID: 1495427120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_180
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 530
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ee975a57c86e4898b10dbcf07e681
+      internalID: -1868251784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_181
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 530
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2ead662656f64ea1168c965bcc4d9
+      internalID: 696010042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_182
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 530
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d324df740eff478b4b08ddc2a473a
+      internalID: -1540547672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_183
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 522
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38edcc3075782489aaed9a4ea40265
+      internalID: -187191228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749b662c4a8b1f43ae4e1f3fa9d6428
+      internalID: -883486278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf5049ffff829478d3553ad056dbad
+      internalID: -1763881303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daabc119ea7f6af45882e73c8b3edadb
+      internalID: -762962402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_187
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 517
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5641746a339664ca72a1e1f18720ba
+      internalID: -1225368813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_188
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 514
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46877ce8411c5dc4892b1153b5dca6e6
+      internalID: -796733725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_189
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 514
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1497b9b98536f4549bdd3adfb7ae69e8
+      internalID: 121529075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_190
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 514
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781b599634068948ab1dfd2be421ccc
+      internalID: -374712170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_191
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 498
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9a1c4bdfca4a4f9e008a409b02556
+      internalID: 194672680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea7937293bb344296dbb58c9346320
+      internalID: -2056827562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_193
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 479
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a7ce521293694c9e463d5f03d658a
+      internalID: 2058426702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_194
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 500
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26766402210fdfa4bbe300302a4b57e7
+      internalID: 1316745717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_195
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 500
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3f8a56703f58042858d7b44caa667e
+      internalID: 1421077298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 486
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3983106257954046beb4731857bc2c7
+      internalID: 2059903346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_197
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 496
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885a629a19d0d954ebc5fe8f20dd9506
+      internalID: 224534493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_198
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac345b36e396ad439d38af5752ebd36
+      internalID: -30072029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_199
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d143fcf5ba8f154e828a17edc32853c
+      internalID: 2122438019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_200
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c01f3fff072124f84629d0f5aa0e66
+      internalID: 1580169431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_201
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 490
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ac69d062ce6a479cc4c251790f3a9
+      internalID: 576554740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_202
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 484
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84eb5787b0f7aa45b2d66ff53336496
+      internalID: 1333186023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_203
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 484
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82f5cce5c0a394188ef0a90ad69393
+      internalID: 203465191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_204
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 482
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b179fc4e898e7d47a2231f23d3efb5d
+      internalID: -1586979973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_205
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 482
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259f91f560dda54f9d254ed88e3b45d
+      internalID: -1155880974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_206
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 482
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb11fee6d24ee147afcbf59f89d7c32
+      internalID: 1538343029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_207
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 481
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2ccb627d87c9418cb203baa0d19be
+      internalID: 750262054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_208
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 468
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655454eeea49d9444844dc03a71960f4
+      internalID: 2127755358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_209
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 468
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdcc28857458a045a563883074f6d08
+      internalID: -494530768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_210
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 456
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5df39da0921cd42bee2bf055d730ce
+      internalID: -9806585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_211
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 456
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b27dde2deb2af4db60227c850d5d6e
+      internalID: -1800376302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_212
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af3b5043a31a54689834bf2a9a074e
+      internalID: -1280038086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_213
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 454
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2f0adfb3dbbd499ca404c192c861f
+      internalID: 1948028376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_214
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1dc64339193a429e248b1b13f75d8
+      internalID: 1636030808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_215
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 455
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251aa8d0a6a506a4caa0b28293fcc453
+      internalID: 1472435141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_216
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 417
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d4e5e9132d0f4b963fc971c720086
+      internalID: -683585239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_217
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 439
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a269e1e081e644283fb2d08a7923f9
+      internalID: -595006217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_218
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 424
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3cc1c898c4d4e41a83eeb448eb35b0
+      internalID: 709630049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_219
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 424
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b10eb6b65f22b4ea4f4d6b5ca9fc49
+      internalID: -1737176496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_220
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 418
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a588fa60c5e02554d923c494c4f14c36
+      internalID: 1684377891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_221
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 418
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e410c500b379848a94fa09c2787ec8
+      internalID: -57538855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_222
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 405
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07064632f1d873e4cba26b02c6ea53b0
+      internalID: -461237057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c47bb87ef4dbe44284c1799cf8a2dfb
+      internalID: -1158004996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 401
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3ede3f7b3c804ebce247e058fea24
+      internalID: -956809923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_225
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 404
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fd598abb35bc4a954c247e194b476
+      internalID: -694346267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 402
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a97d681b5c48d498295997f4c5be29
+      internalID: -465748715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_227
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 406
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002fcd628abb43447afe4669563c2ffc
+      internalID: -986030714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_228
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 395
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4f96fd6975124fb7abb8af371c823
+      internalID: 2110414567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_229
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 395
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22035283a0568d4ebaeb23102c35070
+      internalID: 1990169754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_230
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 395
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e3f87040f7ab40a9c3220aee58bd7
+      internalID: 1869755010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_231
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 369
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b8e41b4ce1594e8bcb3765bc5891e
+      internalID: -932312985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_232
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 369
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a41440059332ab4dbfbdb41e8f1a9b9
+      internalID: -767622200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_233
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 390
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f05d0bd55029fb49a672be0ff8942a6
+      internalID: 1868098362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_234
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59367e8cfcbc3274890e59cfac6e2612
+      internalID: 1313946508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_235
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 386
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ca0497e5917646a03ac6c35e97974
+      internalID: -1467904410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_236
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 392
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af161a564ba9b64080f71a4d5b93cd5
+      internalID: -259636043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_237
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c07c90019747964580b4d7a3b575bb6
+      internalID: 401493352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_238
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094b644b2987cf458ac230a1e215836
+      internalID: -148094834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_239
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 337
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b42b10c1b843c24fb121744d3156b7b
+      internalID: -2145489673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_240
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3c33650fe49e4dae54aed2dddbf8f
+      internalID: -1953425198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_241
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 337
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80408849ce0f4cc4189062491bce1265
+      internalID: 2005659520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 337
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec74f99d6461f4b4f9ea9272a4208e79
+      internalID: 146430185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_243
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 359
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8b9e1bad4b694e910138bc4f8614b
+      internalID: 397535166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_244
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 359
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f5a77d79764ce4e921a1e9a00ca3e6
+      internalID: 2109182989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_245
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 359
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552ad7bcbb4a8624a872c3d90a4c9fa5
+      internalID: 600086888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_246
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 359
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4d337a33aeadd46bc9dc11f055df1c
+      internalID: -636513036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_247
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 359
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4517f91de92721d459cafe71e4cef121
+      internalID: 404033557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_248
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 348
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3e89211a53f04d8c399a8495abf10
+      internalID: 1332784553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_249
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31938ea31bfb5ba418a9978f10792b24
+      internalID: -741757758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_250
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 288
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce417af82ac61d9438fd3cf6b133be0b
+      internalID: -1297412326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_251
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd525a66a5c034ca99c387ae7bb5ed
+      internalID: -784897204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_252
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 327
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0d10ed69de1e4cb49c38e498014a6
+      internalID: -1843784006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_253
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 327
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4063bef446ca77646811934311516b5e
+      internalID: 478948495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_254
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 327
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6faa315f1238e4b9e5d6732c2f87e7
+      internalID: -686171520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_255
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 316
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777973bb8cdc2e44a1cd039897a2b87
+      internalID: 1335480141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_256
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 316
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ea5300fa823d9449ea087b4350dcbc
+      internalID: 886733200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_257
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 316
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3cc8f50b9c2f439095963aa218f39
+      internalID: 635679147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_258
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 316
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586fca03010db5542b4248b9561c4302
+      internalID: 790786182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_259
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5da8f000294b941b31082348e7234e
+      internalID: -1455891570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_260
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 295
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681a4f926c67e6343870f8933a052051
+      internalID: 1476899276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_261
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 281
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d57bf7ad6c54834db5d9af2b53e90f6
+      internalID: 1140746680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_262
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 273
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5da75c231f214f9198e5d81de6ee3
+      internalID: -1982220107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_263
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306e41527a57924ab7edd392d4ce8fb
+      internalID: 841217128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_264
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 240
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3504aa7f22465ec4fb644a6da3d000b8
+      internalID: -1610486804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_265
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a86f1b785e3624a9f7db7a86ce495f
+      internalID: 1276615488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_266
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688eaa9482ded8c45a04d14b220b69a3
+      internalID: 904486701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_267
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 263
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09113eb03b0854f93ac6f365654e7a
+      internalID: -326456075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_268
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 246
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808a205661fa74e488daae65dbbea1bb
+      internalID: -2028339285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_269
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 246
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7ec439af8356c4eb4ebd2914804290
+      internalID: -2108725504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_270
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 225
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9926e97623124d4ca48c6323577c606
+      internalID: -1097585713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_271
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 253
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02d99971a732e4082c4be6cde621b2
+      internalID: 1944903275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1858243b94d3794d856b34636a654be
+      internalID: -1572487033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_273
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a42a393816e04a94e3f52eb9635d6
+      internalID: -1325562986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0777a42ac92823a4c8860e0114f17e7c
+      internalID: -185775695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_275
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12000427b7aff5489f8bedc4dce6b2e
+      internalID: 1351649295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_276
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 208
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31b1d70ab8dcf468b129ffffd0c7d5
+      internalID: 1043586763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_277
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 196
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236fb4da1c353364fb95faf2ee868258
+      internalID: 114200030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_278
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 196
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f1d92ed7f91748925ca5d0519f580
+      internalID: -600630129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_279
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 208
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f5336aee22f242a807697de9de634
+      internalID: -1011481693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_280
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93819a8ef622e0147b99ae890b4f49a9
+      internalID: 23340673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_281
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72235c6ab9795f47a4866d9afbd62f8
+      internalID: 1076931455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_282
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e29a476e69bc6488330b0199509dfd
+      internalID: 2084366669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_283
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f166d236d9e4f45ac74f0c636026fd
+      internalID: -1215205464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_284
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7b8279a8f865499b78e2e3fb2b1f5
+      internalID: -1590513948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_285
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 176
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad54472dcd4d344c846607dcb9948ae
+      internalID: -94869928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_286
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 180
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7fa89350f1f724992bcc9ed1951dd1
+      internalID: 583753091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_287
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 180
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7923c3836163fc499d09cd870f66524
+      internalID: -2145532238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_288
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 176
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1173d382a512694e81b10009f0abfe9
+      internalID: -640730350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_289
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 150
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eea85c93d515748b8dc11ccc2b1388
+      internalID: -1987257967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_290
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 150
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b3c5d4d4c1194c90ff9eba4499c83
+      internalID: 872433303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_291
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 150
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0ce6db14ef9c4e832c9a993654cbd
+      internalID: -341680719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_292
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e42b4e24f7cdc46964556f02edcddd
+      internalID: -205936928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_293
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 164
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08266918b812a15409dba5a01cd117aa
+      internalID: -1590443950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_294
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 148
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e79328b8b1f04685ad509019b6c91
+      internalID: -614965893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_295
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 148
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de74ede13df5ea4fa69bda39a296cf8
+      internalID: -837579452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_296
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec02a7489d0bcf4695e2494dcb9d0e8
+      internalID: 437162319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_297
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a169a01b157b42a01d231b0ff6306
+      internalID: -739200751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_298
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff42a05b4bb71144098747459b34ceb0
+      internalID: -1191411018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_299
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af40753ca737741bfc2dd2b06e42ac
+      internalID: -2142890661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_300
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab8ab53fbe15a4d95c692f8aa0bff9
+      internalID: -1009453482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_301
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572f7c0b303aff4597419166a065910
+      internalID: 399275372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_302
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 54
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4662f71009b8f654c99fcfeace992ee0
+      internalID: -7419676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_303
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a53f3eb4a2a5b4aa818cc4c8365ff9
+      internalID: -1486497236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_304
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151f97a2cec76a4c9821d6b16d69d2e
+      internalID: 377398394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_305
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e1cc6121335a4d97c7f51f0c4a752
+      internalID: 343931541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Bedroom_Shadowless_306
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 22
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39437e54181f26e42a600cdf87cf1290
+      internalID: 1562141908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4_Bedroom_Shadowless_156: 1097461359
+      4_Bedroom_Shadowless_68: -1365296174
+      4_Bedroom_Shadowless_204: -1586979973
+      4_Bedroom_Shadowless_195: 1421077298
+      4_Bedroom_Shadowless_252: -1843784006
+      4_Bedroom_Shadowless_207: 750262054
+      4_Bedroom_Shadowless_236: -259636043
+      4_Bedroom_Shadowless_208: 2127755358
+      4_Bedroom_Shadowless_8: -684269003
+      4_Bedroom_Shadowless_232: -767622200
+      4_Bedroom_Shadowless_144: -263590830
+      4_Bedroom_Shadowless_7: 1137254036
+      4_Bedroom_Shadowless_175: 604879747
+      4_Bedroom_Shadowless_92: 843796397
+      4_Bedroom_Shadowless_83: -1743289392
+      4_Bedroom_Shadowless_163: -746475137
+      4_Bedroom_Shadowless_303: -1486497236
+      4_Bedroom_Shadowless_29: -2066053691
+      4_Bedroom_Shadowless_202: 1333186023
+      4_Bedroom_Shadowless_121: -568045027
+      4_Bedroom_Shadowless_96: -18792390
+      4_Bedroom_Shadowless_146: 774892044
+      4_Bedroom_Shadowless_59: -1980866709
+      4_Bedroom_Shadowless_184: -883486278
+      4_Bedroom_Shadowless_277: 114200030
+      4_Bedroom_Shadowless_293: -1590443950
+      4_Bedroom_Shadowless_50: -1876188318
+      4_Bedroom_Shadowless_210: -9806585
+      4_Bedroom_Shadowless_117: 1256174099
+      4_Bedroom_Shadowless_161: -1782176220
+      4_Bedroom_Shadowless_213: 1948028376
+      4_Bedroom_Shadowless_3: 1430324671
+      4_Bedroom_Shadowless_43: -1506701593
+      4_Bedroom_Shadowless_278: -600630129
+      4_Bedroom_Shadowless_120: 2089696724
+      4_Bedroom_Shadowless_127: -1319193513
+      4_Bedroom_Shadowless_268: -2028339285
+      4_Bedroom_Shadowless_281: 1076931455
+      4_Bedroom_Shadowless_238: -148094834
+      4_Bedroom_Shadowless_135: -786917107
+      4_Bedroom_Shadowless_151: -858645011
+      4_Bedroom_Shadowless_173: -60783111
+      4_Bedroom_Shadowless_94: -1532445990
+      4_Bedroom_Shadowless_212: -1280038086
+      4_Bedroom_Shadowless_227: -986030714
+      4_Bedroom_Shadowless_259: -1455891570
+      4_Bedroom_Shadowless_36: 536152989
+      4_Bedroom_Shadowless_124: -1262655688
+      4_Bedroom_Shadowless_23: -253636884
+      4_Bedroom_Shadowless_282: 2084366669
+      4_Bedroom_Shadowless_37: 896866783
+      4_Bedroom_Shadowless_177: -1558679117
+      4_Bedroom_Shadowless_170: -1719682588
+      4_Bedroom_Shadowless_254: -686171520
+      4_Bedroom_Shadowless_17: -1455329084
+      4_Bedroom_Shadowless_242: 146430185
+      4_Bedroom_Shadowless_176: -815916497
+      4_Bedroom_Shadowless_257: 635679147
+      4_Bedroom_Shadowless_26: 438856635
+      4_Bedroom_Shadowless_149: -987515980
+      4_Bedroom_Shadowless_143: 2003946592
+      4_Bedroom_Shadowless_265: 1276615488
+      4_Bedroom_Shadowless_294: -614965893
+      4_Bedroom_Shadowless_172: -1641363007
+      4_Bedroom_Shadowless_229: 1990169754
+      4_Bedroom_Shadowless_269: -2108725504
+      4_Bedroom_Shadowless_60: -630495611
+      4_Bedroom_Shadowless_76: 1962140013
+      4_Bedroom_Shadowless_263: 841217128
+      4_Bedroom_Shadowless_13: -269162356
+      4_Bedroom_Shadowless_246: -636513036
+      4_Bedroom_Shadowless_61: -1166912494
+      4_Bedroom_Shadowless_30: 723584372
+      4_Bedroom_Shadowless_122: 1632252918
+      4_Bedroom_Shadowless_291: -341680719
+      4_Bedroom_Shadowless_4: 793658584
+      4_Bedroom_Shadowless_116: -956860847
+      4_Bedroom_Shadowless_219: -1737176496
+      4_Bedroom_Shadowless_82: -653283397
+      4_Bedroom_Shadowless_171: 1477075565
+      4_Bedroom_Shadowless_139: -36739273
+      4_Bedroom_Shadowless_90: 1775612413
+      4_Bedroom_Shadowless_237: 401493352
+      4_Bedroom_Shadowless_97: -1753715140
+      4_Bedroom_Shadowless_174: -1038508485
+      4_Bedroom_Shadowless_18: 633702625
+      4_Bedroom_Shadowless_304: 377398394
+      4_Bedroom_Shadowless_49: -126229063
+      4_Bedroom_Shadowless_102: 443210555
+      4_Bedroom_Shadowless_27: -1947896514
+      4_Bedroom_Shadowless_279: -1011481693
+      4_Bedroom_Shadowless_159: -2115139672
+      4_Bedroom_Shadowless_295: -837579452
+      4_Bedroom_Shadowless_136: -2051240126
+      4_Bedroom_Shadowless_140: 1036554120
+      4_Bedroom_Shadowless_240: -1953425198
+      4_Bedroom_Shadowless_288: -640730350
+      4_Bedroom_Shadowless_206: 1538343029
+      4_Bedroom_Shadowless_296: 437162319
+      4_Bedroom_Shadowless_77: -1752497655
+      4_Bedroom_Shadowless_198: -30072029
+      4_Bedroom_Shadowless_182: -1540547672
+      4_Bedroom_Shadowless_192: -2056827562
+      4_Bedroom_Shadowless_142: -120013805
+      4_Bedroom_Shadowless_86: 1569443652
+      4_Bedroom_Shadowless_114: -905613733
+      4_Bedroom_Shadowless_6: 334426513
+      4_Bedroom_Shadowless_104: 1236779373
+      4_Bedroom_Shadowless_53: 91659570
+      4_Bedroom_Shadowless_225: -694346267
+      4_Bedroom_Shadowless_130: 779340757
+      4_Bedroom_Shadowless_264: -1610486804
+      4_Bedroom_Shadowless_243: 397535166
+      4_Bedroom_Shadowless_12: -1743230351
+      4_Bedroom_Shadowless_33: 1991724731
+      4_Bedroom_Shadowless_244: 2109182989
+      4_Bedroom_Shadowless_187: -1225368813
+      4_Bedroom_Shadowless_0: -863555479
+      4_Bedroom_Shadowless_160: 666252407
+      4_Bedroom_Shadowless_297: -739200751
+      4_Bedroom_Shadowless_222: -461237057
+      4_Bedroom_Shadowless_147: 72593688
+      4_Bedroom_Shadowless_67: 1761864756
+      4_Bedroom_Shadowless_112: 1553931428
+      4_Bedroom_Shadowless_93: -32748930
+      4_Bedroom_Shadowless_137: 1302960796
+      4_Bedroom_Shadowless_290: 872433303
+      4_Bedroom_Shadowless_211: -1800376302
+      4_Bedroom_Shadowless_58: 1222005250
+      4_Bedroom_Shadowless_111: 391305167
+      4_Bedroom_Shadowless_113: -1923450669
+      4_Bedroom_Shadowless_42: 1455066172
+      4_Bedroom_Shadowless_101: -1732655832
+      4_Bedroom_Shadowless_220: 1684377891
+      4_Bedroom_Shadowless_65: -619656237
+      4_Bedroom_Shadowless_110: -1646909838
+      4_Bedroom_Shadowless_48: 1180169033
+      4_Bedroom_Shadowless_186: -762962402
+      4_Bedroom_Shadowless_194: 1316745717
+      4_Bedroom_Shadowless_239: -2145489673
+      4_Bedroom_Shadowless_154: -687579215
+      4_Bedroom_Shadowless_24: -2627965
+      4_Bedroom_Shadowless_266: 904486701
+      4_Bedroom_Shadowless_19: -933483279
+      4_Bedroom_Shadowless_103: 1875882256
+      4_Bedroom_Shadowless_255: 1335480141
+      4_Bedroom_Shadowless_245: 600086888
+      4_Bedroom_Shadowless_165: 793739468
+      4_Bedroom_Shadowless_158: -1020078543
+      4_Bedroom_Shadowless_217: -595006217
+      4_Bedroom_Shadowless_298: -1191411018
+      4_Bedroom_Shadowless_56: 2129869816
+      4_Bedroom_Shadowless_181: 696010042
+      4_Bedroom_Shadowless_162: 1391171142
+      4_Bedroom_Shadowless_216: -683585239
+      4_Bedroom_Shadowless_128: 475148319
+      4_Bedroom_Shadowless_267: -326456075
+      4_Bedroom_Shadowless_107: 63634257
+      4_Bedroom_Shadowless_233: 1868098362
+      4_Bedroom_Shadowless_180: -1868251784
+      4_Bedroom_Shadowless_273: -1325562986
+      4_Bedroom_Shadowless_28: 1485792454
+      4_Bedroom_Shadowless_123: -532025175
+      4_Bedroom_Shadowless_100: -925469101
+      4_Bedroom_Shadowless_299: -2142890661
+      4_Bedroom_Shadowless_5: -1954470404
+      4_Bedroom_Shadowless_31: 1420829840
+      4_Bedroom_Shadowless_197: 224534493
+      4_Bedroom_Shadowless_20: -967460253
+      4_Bedroom_Shadowless_193: 2058426702
+      4_Bedroom_Shadowless_95: -382726606
+      4_Bedroom_Shadowless_35: -775276624
+      4_Bedroom_Shadowless_109: 683347066
+      4_Bedroom_Shadowless_215: 1472435141
+      4_Bedroom_Shadowless_9: 988518794
+      4_Bedroom_Shadowless_153: -2038714505
+      4_Bedroom_Shadowless_78: -9961885
+      4_Bedroom_Shadowless_223: -1158004996
+      4_Bedroom_Shadowless_88: 1021160957
+      4_Bedroom_Shadowless_224: -956809923
+      4_Bedroom_Shadowless_166: 318474044
+      4_Bedroom_Shadowless_71: 1971899984
+      4_Bedroom_Shadowless_132: 1983618063
+      4_Bedroom_Shadowless_289: -1987257967
+      4_Bedroom_Shadowless_188: -796733725
+      4_Bedroom_Shadowless_41: 398966705
+      4_Bedroom_Shadowless_152: -1542004926
+      4_Bedroom_Shadowless_54: 476721699
+      4_Bedroom_Shadowless_98: 321504047
+      4_Bedroom_Shadowless_134: 541750924
+      4_Bedroom_Shadowless_260: 1476899276
+      4_Bedroom_Shadowless_185: -1763881303
+      4_Bedroom_Shadowless_190: -374712170
+      4_Bedroom_Shadowless_99: 1195837579
+      4_Bedroom_Shadowless_251: -784897204
+      4_Bedroom_Shadowless_105: 1061036938
+      4_Bedroom_Shadowless_64: 306911765
+      4_Bedroom_Shadowless_287: -2145532238
+      4_Bedroom_Shadowless_248: 1332784553
+      4_Bedroom_Shadowless_57: 2061873356
+      4_Bedroom_Shadowless_125: 928413851
+      4_Bedroom_Shadowless_39: -1030649968
+      4_Bedroom_Shadowless_145: -239465498
+      4_Bedroom_Shadowless_205: -1155880974
+      4_Bedroom_Shadowless_11: -1412992537
+      4_Bedroom_Shadowless_75: 1950754582
+      4_Bedroom_Shadowless_209: -494530768
+      4_Bedroom_Shadowless_126: -159172322
+      4_Bedroom_Shadowless_235: -1467904410
+      4_Bedroom_Shadowless_157: 1444519262
+      4_Bedroom_Shadowless_300: -1009453482
+      4_Bedroom_Shadowless_302: -7419676
+      4_Bedroom_Shadowless_230: 1869755010
+      4_Bedroom_Shadowless_73: -1476575035
+      4_Bedroom_Shadowless_15: -467563895
+      4_Bedroom_Shadowless_16: 37798876
+      4_Bedroom_Shadowless_62: 699799882
+      4_Bedroom_Shadowless_276: 1043586763
+      4_Bedroom_Shadowless_38: 214581560
+      4_Bedroom_Shadowless_275: 1351649295
+      4_Bedroom_Shadowless_196: 2059903346
+      4_Bedroom_Shadowless_218: 709630049
+      4_Bedroom_Shadowless_25: -1882489116
+      4_Bedroom_Shadowless_108: -995671817
+      4_Bedroom_Shadowless_231: -932312985
+      4_Bedroom_Shadowless_141: -1530384820
+      4_Bedroom_Shadowless_270: -1097585713
+      4_Bedroom_Shadowless_285: -94869928
+      4_Bedroom_Shadowless_148: -359327535
+      4_Bedroom_Shadowless_40: 973682787
+      4_Bedroom_Shadowless_84: -1127503360
+      4_Bedroom_Shadowless_234: 1313946508
+      4_Bedroom_Shadowless_261: 1140746680
+      4_Bedroom_Shadowless_81: -819630745
+      4_Bedroom_Shadowless_138: 1626090853
+      4_Bedroom_Shadowless_284: -1590513948
+      4_Bedroom_Shadowless_250: -1297412326
+      4_Bedroom_Shadowless_34: -62626164
+      4_Bedroom_Shadowless_70: 480184610
+      4_Bedroom_Shadowless_305: 343931541
+      4_Bedroom_Shadowless_214: 1636030808
+      4_Bedroom_Shadowless_191: 194672680
+      4_Bedroom_Shadowless_274: -185775695
+      4_Bedroom_Shadowless_280: 23340673
+      4_Bedroom_Shadowless_262: -1982220107
+      4_Bedroom_Shadowless_118: 1705166613
+      4_Bedroom_Shadowless_69: 404456731
+      4_Bedroom_Shadowless_179: 1495427120
+      4_Bedroom_Shadowless_44: -1283291736
+      4_Bedroom_Shadowless_247: 404033557
+      4_Bedroom_Shadowless_1: -302666312
+      4_Bedroom_Shadowless_89: 1875455689
+      4_Bedroom_Shadowless_150: 1014098057
+      4_Bedroom_Shadowless_200: 1580169431
+      4_Bedroom_Shadowless_164: -359741202
+      4_Bedroom_Shadowless_47: -23271243
+      4_Bedroom_Shadowless_10: -511153820
+      4_Bedroom_Shadowless_199: 2122438019
+      4_Bedroom_Shadowless_258: 790786182
+      4_Bedroom_Shadowless_306: 1562141908
+      4_Bedroom_Shadowless_129: 2043794422
+      4_Bedroom_Shadowless_91: 1683348865
+      4_Bedroom_Shadowless_221: -57538855
+      4_Bedroom_Shadowless_131: -312340607
+      4_Bedroom_Shadowless_178: -1645043616
+      4_Bedroom_Shadowless_21: -1610864258
+      4_Bedroom_Shadowless_32: -1217961426
+      4_Bedroom_Shadowless_168: 1068674481
+      4_Bedroom_Shadowless_292: -205936928
+      4_Bedroom_Shadowless_2: 326064320
+      4_Bedroom_Shadowless_79: 1180798838
+      4_Bedroom_Shadowless_66: 255971823
+      4_Bedroom_Shadowless_226: -465748715
+      4_Bedroom_Shadowless_85: 459834133
+      4_Bedroom_Shadowless_228: 2110414567
+      4_Bedroom_Shadowless_189: 121529075
+      4_Bedroom_Shadowless_80: -1682036593
+      4_Bedroom_Shadowless_253: 478948495
+      4_Bedroom_Shadowless_203: 203465191
+      4_Bedroom_Shadowless_106: -969126836
+      4_Bedroom_Shadowless_87: 1514189306
+      4_Bedroom_Shadowless_115: 480282934
+      4_Bedroom_Shadowless_14: -771113379
+      4_Bedroom_Shadowless_271: 1944903275
+      4_Bedroom_Shadowless_46: -1637754209
+      4_Bedroom_Shadowless_52: 710462352
+      4_Bedroom_Shadowless_201: 576554740
+      4_Bedroom_Shadowless_241: 2005659520
+      4_Bedroom_Shadowless_286: 583753091
+      4_Bedroom_Shadowless_167: 423582493
+      4_Bedroom_Shadowless_22: -51583328
+      4_Bedroom_Shadowless_301: 399275372
+      4_Bedroom_Shadowless_249: -741757758
+      4_Bedroom_Shadowless_119: -337695343
+      4_Bedroom_Shadowless_63: -595718747
+      4_Bedroom_Shadowless_183: -187191228
+      4_Bedroom_Shadowless_74: -941079213
+      4_Bedroom_Shadowless_272: -1572487033
+      4_Bedroom_Shadowless_283: -1215205464
+      4_Bedroom_Shadowless_133: 108916990
+      4_Bedroom_Shadowless_256: 886733200
+      4_Bedroom_Shadowless_55: 910478869
+      4_Bedroom_Shadowless_51: 112834042
+      4_Bedroom_Shadowless_155: 1101788459
+      4_Bedroom_Shadowless_72: 1494566984
+      4_Bedroom_Shadowless_169: 1289164452
+      4_Bedroom_Shadowless_45: 1989342148
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
