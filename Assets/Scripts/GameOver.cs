@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
+    void Start() {
+        Cursor.visible = true;
+    }
     public void BackToMainMenu() {
         SceneManager.LoadScene("Menu");
     }

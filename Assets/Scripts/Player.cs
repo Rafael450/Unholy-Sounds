@@ -120,8 +120,7 @@ public class Player : MonoBehaviour
     }
     void OnTriggerExit2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Energy" || other.gameObject.tag == "Flashlight" || other.gameObject.tag == "Velva"){
-        letterE.SetActive(false); }
+        letterE.SetActive(false);
     }
 
     void OnTriggerStay2D(Collider2D other)
